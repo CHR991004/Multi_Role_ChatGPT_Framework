@@ -8,7 +8,6 @@ library(ggplot2)
 library(dplyr)
 library(tinyarray)
 
-logFC_cutoff = 0.5 # Filter the minimal logFC
 P_adj = F 
 adj_Pvalue = 0.05 # if P_adj = F, the adj_Pvalue just means P_value
 
@@ -50,6 +49,7 @@ for (i in 1:length(matrix_ID)) {
 	# logFC_cutoff = 1
 	# P_adj = F
 	# adj_Pvalue =0.05
+	logFC_cutoff = mean(abs(DEG$log2FoldChange))+sd(abs(DEG$log2FoldChange))
 	
 	if (P_adj == T) {
 		down = DEG[(DEG$padj < 0.05)&(DEG$log2FoldChange < -logFC_cutoff),]

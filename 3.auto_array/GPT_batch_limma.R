@@ -54,7 +54,7 @@ for (i in 1:length(matrix_ID)) {
   if (LogC) { rt[which(rt <= 0)] <- NaN
   rt <- log2(rt) }
   #differential
-  class <- c(rep("ITP",length(drug_group)),rep("nom",length(con_group)))    #??Ҫ?޸?
+  class <- c(rep("ITP",length(drug_group)),rep("nom",length(con_group)))
   design <- model.matrix(~0+factor(class))
   colnames(design) <- c("ITP","nom")
   fit <- lmFit(rt,design)
