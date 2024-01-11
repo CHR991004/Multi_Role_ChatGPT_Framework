@@ -1,0 +1,5866 @@
+drug_name	ATC_3
+fluprednidene	D07C
+antibiotics	D07C
+fentonium	A03B
+obiltoxaximab	J06B
+trifarotene	D10A
+metformin	A10B
+saxagliptin	A10B
+calcitriol	D05A
+antiinfectives	S02A
+cefotaxime	J01D
+beta-lactamase inhibitor	J01D
+fosravuconazole	D01B
+pazufloxacin	J01M
+ridaforolimus	L01E
+tibezonium iodide	A01A
+flibanserin	G02C
+etilefrine	C01C
+technetium (99mTc) sulesomab	V09H
+glucarpidase	V03A
+oxaceprol	M01A
+resorcinol	S01A
+carbasalate calcium	B01A
+boceprevir	J05A
+flunarizine	N07C
+aluminium clofibrate	C10A
+codeine with psycholeptics	N02A
+lomitapide	C10A
+emtricitabine	J05A
+tenofovir alafenamide	J05A
+pretomanid	J04A
+hydrocortisone	S01C
+benzoctamine	N05B
+aminophylline	R03D
+mexazolam	N05B
+cyanocobalamin	B03B
+sufentanil	N01A
+oxycodone	N02A
+paracetamol	N02A
+propacetamol	N02B
+larotrectinib	L01E
+topical antibiotic combinations	D01A
+doxycycline	J01A
+yttrium (90Y) citrate colloid	V10A
+pivagabine	N06A
+barbiturates in combination with other drugs	N05C
+rimexolone	H02A
+desonide	S01B
+dezocine	N02A
+mersalyl	C03B
+adefovir dipivoxil	J05A
+ivabradine	C01E
+trastuzumab deruxtecan	L01F
+nifurzide	A07A
+abametapir	P03A
+dextranomer	D03A
+tetrabenazine	N07X
+anti-D (rh) immunoglobulin	J06B
+budesonide	R03B
+testosterone	G03E
+estrogen	G03E
+piritramide	N02A
+influenza virus	J07B
+serum gonadotrophin	G03G
+etanautine	N04A
+fluostigmine	S01E
+favipiravir	J05A
+chlorpromazine	N05A
+thebacon	R05D
+cyproheptadine	R06A
+trypsin	B06A
+artemisinin	P01B
+naphthoquine	P01B
+polymyxin B	J01X
+guacetisal	N02B
+fluoroethylcholine (18F)	V09I
+haloprogin	D01A
+sulfadicramide	S01A
+epomediol	A05B
+medicinal charcoal	A07B
+reserpine	C02A
+ethambutol	J04A
+verapamil	C08D
+niaprazine	N05C
+metoprolol	C07F
+amlodipine	C07F
+lamivudine disoproxil	J05A
+efavirenz	J05A
+lansoprazole	A02B
+fedrilate	R05D
+cromoglicic acid	S01G
+dalbavancin	J01X
+iloperidone	N05A
+amprenavir	J05A
+potassium (different salts in combination)	A12B
+plitidepsin	L01X
+nicofetamide	A03A
+cefazedone	J01D
+lormetazepam	N05C
+fluocinolone acetonide	D07B
+antiseptics	D07B
+buprenorphine	N02A
+ergotamine	N02C
+iodixanol	V08A
+oil ingredients	A06A
+methylpropylpropanediol dinitrate	C01D
+gedocarnil	N05B
+clofazimine	J04B
+fenticonazole	D01A
+combinations of xanthines	R03D
+docusate sodium	A06A
+metreleptin	A16A
+tilactase	A09A
+formoterol	R03C
+vasopressin (argipressin)	H01B
+brompheniramine	R06A
+kanamycin	A07A
+tamsulosin	G04C
+dutasteride	G04C
+metronidazole	D06B
+alclometasone	D07A
+thiram	P03A
+finerenone	C03D
+cafedrine	C01C
+nifedipine	C08G
+diuretics	C08G
+anthrax antigen	J07A
+Betulae cortex	D03A
+trepibutone	A03A
+fusidic acid	S01A
+cannabidiol	N03A
+inosine pranobex	J05A
+aflibercept	S01L
+heparinoid	C05B
+trametinib	L01E
+benzalkonium	D08A
+aciclovir	D06B
+piroxicam	S01B
+expectorant combinations. combinations with cough suppressants	R05C
+calcium hexamine thiocyanate	R01A
+prednisolone	R01A
+varicella attenuated	J07B
+triamcinolone	R01A
+droxidopa	C01C
+hydrocortisone	A01A
+papaveretum	N02A
+loratadine	R06A
+chenodeoxycholic acid	A05A
+amfepramone	A08A
+tolcapone	N04B
+lomefloxacin	S01A
+benazepril	C09A
+nikethamide	R07A
+cromoglicic acid	R01A
+polatuzumab vedotin	L01F
+donepezil	N06D
+von Willebrand factor	B02B
+guaiazulen	S01X
+adrafinil	N06B
+thiopental	N05C
+technetium (99mTc) teboroxime	V09G
+phenylephrine	S01G
+budesonide	A07E
+gentamicin	S02A
+moxetumomab pasudotox	L01F
+saxagliptin	A10B
+dapagliflozin	A10B
+fluticasone	R01A
+technetium (99mTc) antiCarcinoEmbryonicAntigen antibody	V09I
+mifepristone	G03X
+pinaverium	A03A
+cefoperazone	J01D
+beta-lactamase inhibitor	J01D
+penicillamine	M01C
+isopropamide	A03A
+calcium lactate gluconate	A12A
+choline theophyllinate	R03D
+adrenergics	R03D
+sodium salicylate	N02B
+ipratropium bromide	R03B
+nomifensine	N06A
+almotriptan	N02C
+cefodizime	J01D
+sunitinib	L01E
+chlorzoxazone	M03B
+zidovudine	J05A
+clomifene	G03G
+tramadol	N02A
+celecoxib	N02A
+quetiapine	N05A
+tenofovir disoproxil	J05A
+mercaptamine	S01X
+glucose	V06D
+combinations of barbiturates	N05C
+calcium aminosalicylate	J04A
+ciprofloxacin	J01M
+thyrotropin alfa	H01A
+amrubicin	L01D
+gadoxetic acid	V08C
+amphotericin B	J02A
+prednylidene	H02A
+magnesium peroxide	A06A
+bromochlorosalicylanilide	D01A
+atazanavir	J05A
+cobicistat	J05A
+fleroxacin	J01M
+amifampridine	N07X
+valsartan	C09D
+sacubitril	C09D
+furosemide	C03C
+norgestrel	G03F
+estrogen	G03F
+Sabalis serrulatae fructus	G04C
+aluminium chlorohydrate	M05B
+bromelains	D03B
+kanamycin	S01A
+cabozantinib	L01E
+trimegestone	G03F
+estrogen	G03F
+ronifibrate	C10A
+pipotiazine	N05A
+typhoid polysaccharide antigen	J07A
+delavirdine	J05A
+aliskiren	C09X
+hydrochlorothiazide	C09X
+prazosin	C02C
+sodium perborate	A01A
+omalizumab	R03D
+opium alkaloids with morphine	R05D
+tetracaine	N01B
+butalamine	C04A
+chloramphenicol	D10A
+carvedilol	C07F
+ivabradine	C07F
+metoprolol	C07F
+felodipine	C07F
+camazepam	N05B
+betamethasone	D07C
+antibiotics	D07C
+clomethiazole	N05C
+clobutinol	R05D
+ketoconazole	J02A
+neratinib	L01E
+rimazolium	N02B
+"fructose 1,6-diphosphate"	C01E
+levoverbenone	R05C
+covid-19 vaccines	J07B
+colestipol	C10A
+botulinum antitoxin	J06A
+combinations of corticosteroids	D07A
+dexamethasone	S01B
+atosiban	G02C
+technetium (99mTc) microcolloid	V09D
+loprazolam	N05C
+oliceridine	N02A
+baclofen	M03B
+fenetylline	N06B
+ethadione	N03A
+cyclizine	R06A
+penciclovir	J05A
+tenidap	M01A
+bibrocathol	S01A
+mipomersen	C10A
+nifedipine	C08C
+diosmin	C05C
+fluorometholone	S01B
+dabrafenib	L01E
+ziconotide	N02B
+necitumumab	L01F
+bezlotoxumab	J06B
+perflubron	V08C
+procaine benzylpenicillin	J01C
+cadralazine	C02D
+allylestrenol	G03D
+ipilimumab	L01F
+oxybuprocaine	D04A
+oxaprozin	M01A
+risdiplam	M09A
+pentaerithrityl	A06A
+fludrocortisone	S03C
+antiinfectives	S03C
+oxiracetam	N06B
+ritiometan	R01A
+gallium (68Ga) edotreotide	V09I
+pyridoxine (vit B6)	A11H
+pheneturide	N03A
+triamcinolone	D07X
+glycerol phenylbutyrate	A16A
+linaclotide	A06A
+nizatidine	A02B
+dihydroergocryptine mesylate	N04B
+patiromer calcium	V03A
+chloroprednisone	S01C
+antiinfectives	S01C
+suxibuzone	M02A
+carisbamate	N03A
+tocofersolan	A11H
+amobarbital	N05C
+darunavir	J05A
+ritonavir	J05A
+tigecycline	J01A
+alfuzosin	G04C
+finasteride	G04C
+gefapixant	R05D
+carfecillin	G01A
+tralokinumab	D11A
+chlorhexidine	S03A
+sodium edetate	S01X
+gemigliptin	A10B
+rosuvastatin	A10B
+milrinone	C01C
+methyltestosterone	G03E
+perhexiline	C08E
+vadadustat	B03X
+zuclopenthixol	N05A
+becaplermin	A01A
+dolutegravir	J05A
+encephalitis borne virus	J07B
+alverine	A03A
+deutetrabenazine	N07X
+iodine (125I) human albumin	V09G
+cetrimide	D11A
+thiamazole	H03B
+immunoglobulins human extravascular adm.	J06B
+daratumumab	L01F
+acetyldigoxin	C01A
+vinylbital	N05C
+miconazole	D01A
+imipenem	J01D
+cilastatin	J01D
+pegcetacoplan	L04A
+methylthiouracil	H03B
+trihexyphenidyl	N04A
+dihydroergocristine	C04A
+opium alkaloids	R05D
+derivative combination cough suppressants	R05D
+terfenadine	R06A
+epinastine	S01G
+flucytosine	D01A
+vilazodone	N06A
+naldemedine	A06A
+mesna	R05C
+triamcinolone	S02C
+antiinfectives	S02C
+ethanol	V03A
+zaleplon	N05C
+phenylpropanolamine	R01B
+neomycin	S01A
+mephentermine	C01C
+suramin sodium	P01C
+metformin	A10B
+empagliflozin	A10B
+hydromorphone	N02A
+antispasmodics	N02A
+poliomyelitis oral attenuated	J07B
+hetacillin	J01C
+sodium iodohippurate (131I)	V09C
+flurbiprofen	S01B
+mequinol	D11A
+naltrexone	N07B
+fenoterol	R03C
+sodium phosphate	B05X
+hexobendine	C01D
+simvastatin acid	C10B
+ramipril	C10B
+belladonna total alkaloids	A03B
+abarelix	L02B
+bromides	N05C
+hyaluronic acid	S01K
+picloxydine	S01A
+meclofenoxate	N06B
+abemaciclib	L01E
+linseed	A06A
+veratrum	C02L
+diuretics	C02L
+tacrolimus	D11A
+ferrous succinate	B03A
+piperidione	R05D
+methylprednisolone	D07C
+antibiotics	D07C
+emylcamate	N05B
+clevudine	J05A
+pleconaril	J05A
+clarithromycin	J01F
+arbutamine	C01C
+indometacin	S01B
+tamsulosin	G04C
+solifenacin	G04C
+benzylpenicillin	S01A
+tuberculosis attenuated	J07A
+peginesatide	B03X
+combination of rauwolfia alkaloids	C02L
+diuretics incl. other combinations	C02L
+Centella asiatica herba	D03A
+gallium (68Ga) gozetotide	V09I
+technetium (99mTc) hynic-octreotide	V09I
+atorvastatin	C10B
+perindopril	C10B
+dexfenfluramine	A08A
+entacapone	N04B
+acenocoumarol	B01A
+zanamivir	J05A
+acetylcarnitine	N06B
+diethyl ether	N01A
+vinpocetine	N06B
+beclometasone	A07E
+salmeterol	R03A
+rivastigmine	N06D
+resorcinol	D10A
+tyloxapol	R05C
+levofloxacin	S01A
+pyrithione zinc	D11A
+cilazapril	C09A
+sodium phosphate	A06A
+zoster attenuated	J07B
+dexamethasone	R01A
+magnesium levulinate	A12C
+senna glycosides	A06A
+levonadifloxacin	J01M
+iopamidol	V08A
+rosuvastatin	C10B
+valsartan	C10B
+ciprofloxacin	S02A
+mometasone	R01A
+niceritrol	C10A
+pentetrazol	R07A
+fludrocortisone	S01C
+antiinfectives	S01C
+dihydrocodeine	N02A
+tilbroquinol	P01A
+venetoclax	L01X
+carisoprodol excl. psycholeptics	M03B
+flurazepam	N05C
+cyproterone	G03H
+estrogen	G03H
+sulfaphenazole	J01E
+tropatepine	N04A
+sodium iopodate	V08A
+carbuterol	R03C
+potassium lactate	B05X
+sorbitol	A06A
+clopenthixol	N05A
+pentaerithrityl tetranitrate	C01D
+molsidomine	C01D
+nitrofurantoin	J01X
+sacrosidase	A16A
+oxyphenisatine	A06A
+caffeine	V04C
+sodium benzoate	V04C
+omoconazole	D01A
+natamycin	A07A
+epacadostat	L01X
+tiropramide	A03A
+other meningococcal monovalent purified polysaccharides antigen	J07A
+bimatoprost	S01E
+dinutuximab beta	L01F
+potassium chloride	A12B
+hydromorphone	N02A
+naloxone	N02A
+dexchlorpheniramine	R06A
+riboflavin (vit B2)	A11H
+masoprocol	L01X
+dapsone	J04B
+samarium (153Sm) lexidronam	V10B
+ketazolam	N05B
+propranolol	C07F
+other combinations	C07F
+seratrodast	R03D
+dihydrocodeine	N02A
+acetylsalicylic acid	N02A
+tropicamide	S01F
+opinercept	L04A
+diphtheria-haemophilus influenzae B-pertussis-poliomyelitis-tetanus	J07C
+sodium fluoride	A01A
+isoaminile	R05D
+emepronium	N05C
+chloroprocaine	N01B
+meclocycline	D10A
+tucatinib	L01E
+dexrabeprazole	A02B
+norgestrienone	G03A
+camphora	C01E
+hydrocortisone	S01B
+interferon beta-1a	L03A
+saruplase	B01A
+antiinfectives	S03A
+selenium (75Se) tauroselcholic acid	V09D
+dengue virus vaccines	J07B
+propiomazine	N05C
+diphemanil	A03A
+sulfanilamide	J01E
+atenolol	C07F
+nifedipine	C07F
+tizanidine	M03B
+doxefazepam	N05C
+calcium dobesilate	C05B
+probucol	C10A
+oblimersen	L01X
+aminobenzoate potassium	D11A
+voretigene neparvovec	S01X
+glafenine	N02B
+Hederae helicis folium	R05C
+encorafenib	L01E
+chloralodol	N05C
+mecobalamin	B03B
+propatylnitrate	C01D
+buspirone	N05B
+folic acid	B03B
+vardenafil	G04B
+magnesium oxide	A02A
+proxyphylline	R03D
+adrenergics	R03D
+calcium chloride	A12A
+cerliponase alfa	A16A
+epimestrol	G03G
+metandienone	D11A
+valganciclovir	J05A
+pefloxacin	J01M
+erdafitinib	L01E
+ocriplasmin	S01X
+alpelisib	L01E
+lanadelumab	B06A
+eletriptan	N02C
+sorafenib	L01E
+pixantrone	L01D
+sultiame	N03A
+azidamfenicol	S01A
+erbium (169Er) citrate colloid	V10A
+indium (111In) oxinate labelled cells	V09H
+levonorgestrel	G03F
+estrogen	G03F
+enisamium iodide	J05A
+technetium (99mTc) antigranulocyte antibody	V09H
+idoxuridine	S01A
+sodium iodide (124I)	V09F
+opium derivatives	R05F
+mucolytics	R05F
+lamivudine	J05A
+raltegravir	J05A
+dixyrazine	N05A
+isothipendyl	D04A
+isatuximab	L01F
+lisuride	N02C
+pepsin	A09A
+encephalitis virus	J07B
+cabotegravir	J05A
+azanidazole	P01A
+mephenoxalone	N05B
+hemoglobin crosfumaril	B05A
+flurbiprofen	R02A
+fluocinolone acetonide	S02C
+antiinfectives	S02C
+eszopiclone	N05C
+metoprolol	C07B
+thiazides	C07B
+Hyperici herba	N06A
+nitrous oxide	N01A
+aluminium acetotartrate	S02A
+gramicidin	R02A
+indium (111In) pentetreotide	V09I
+minoxidil	D11A
+maralixibat chloride	A05A
+selpercatinib	L01E
+hepatitis A immunoglobulin	J06B
+isocarboxazid	N06A
+oxytetracycline	S01A
+ketorolac	S01B
+trimetrexate	P01A
+ozenoxacin	D06A
+ammonium chloride	B05X
+trolamine	D03A
+cefonicid	J01D
+sulfamerazine	J01E
+trimethoprim	J01E
+aspoxicillin	J01C
+rolapitant	A04A
+poliomyelitis virus	J07B
+itramin tosilate	C01D
+progabide	N03A
+glucose	C05B
+rosuvastatin	C10B
+acetylsalicylic acid	C10B
+diflorasone	D07A
+bufylline	R03D
+methylphenobarbital	N03A
+fludeoxyglucose (18F)	V09I
+everolimus	L04A
+dimetofrine	C01C
+tazarotene	D05A
+ulobetasol	D05A
+pseudoephedrine	R01B
+pimecrolimus	D11A
+tipepidine	R05D
+prednisolone	D07C
+antibiotics	D07C
+tenofovir alafenamide	J05A
+meldonium	C01E
+etafenone	C01D
+pyritinol	N06B
+hypromellose	S01K
+almagate	A02A
+theobromine	R03D
+mercuric amidochloride	D08A
+levetiracetam	N03A
+brentuximab vedotin	L01F
+strontium (89Sr) chloride	V10B
+prucalopride	A06A
+pitolisant	N07X
+fluocortolone	S01C
+antiinfectives	S01C
+danaparoid	B01A
+hydroxyethylpromethazine	R06A
+tocopherol	A11H
+brucella antigen	J07A
+other plasma protein fractions	B05A
+clascoterone	D10A
+betamethasone	S03C
+antiinfectives	S03C
+urofollitropin	G03G
+thallium (201Tl) chloride	V09G
+macrogol	A06A
+mepartricin	G01A
+abrocitinib	D11A
+cadmium compounds	D11A
+dimemorfan	R05D
+doxepin	N06A
+gliclazide	A10B
+selegiline	N04B
+clotiazepam	N05B
+glutamic acid hydrochloride	A09A
+tebipenem pivoxil	J01D
+yellow fever attenuated	J07B
+trofosfamide	L01A
+dihydroergotamine	N02C
+butobarbital	N05C
+lamivudine disoproxil	J05A
+dolutegravir	J05A
+verteporfin	S01L
+ceritinib	L01E
+tixagevimab	J06B
+cilgavimab	J06B
+durvalumab	L01F
+mesuximide	N03A
+hydrocortisone	S02B
+indigo carmine	V04C
+dihydroxialumini sodium carbonate	A02A
+bevacizumab	L01F
+crospovidone	A07B
+pranlukast	R03D
+betamethasone	S02B
+amphotericin B	A01A
+olmesartan medoxomil	C09D
+hydrochlorothiazide	C09D
+nevirapine	J05A
+pravastatin	C10B
+fenofibrate	C10B
+interferon	S01A
+nalidixic acid	J01M
+chloral hydrate	N05C
+codeine	N02A
+paracetamol	N02A
+econazole	G01A
+emtricitabine disoproxil	J05A
+efavirenz	J05A
+dextrothyroxine	C10A
+eptinezumab	N02C
+dihydrostreptomycin	S01A
+cromoglicic acid	R03B
+ambrisentan	C02K
+tadalafil	C02K
+propyphenazone	N02B
+vidarabine	J05A
+miconazole	J02A
+proquazone	M01A
+idebenone	N06B
+desogestrel	G03F
+estrogen	G03F
+isavuconazole	J02A
+obinutuzumab	L01F
+furosemide	C03C
+potassium	C03C
+nandrolone	S01X
+rifamycin	A07A
+betamethasone	H02A
+bumetanide	C03E
+potassium-sparing agents	C03E
+crofelemer	A07X
+oxyphencyclimine	A03A
+metoprolol	C07F
+ivabradine	C07F
+propantheline	A03A
+indocyanine green	V04C
+diphemanil	A03C
+psycholeptics	A03C
+sotalol	C07A
+prednisolone	S03B
+carbamide	D02A
+typhus exanthematicus cell	J07A
+metronidazole	J01X
+combination drugs used in erectile dysfunction	G04B
+isosorbide mononitrate	C01D
+potassium iodide	R05C
+flupirtine	N02B
+fosinopril	C09A
+mepivacaine	N01B
+cinchocaine	S02D
+oxymetazoline	D11A
+codeine excl. psycholeptics	N02A
+amlodipine	C08G
+diuretics	C08G
+Insulins	A10A
+analogs for injection-acting combinations	A10A
+oportuzumab monatox	L01F
+streptomycin	J04A
+isoniazid	J04A
+dicycloverine	A03A
+miconazole	A01A
+esomeprazole	A02B
+clarithromycin	A02B
+hydrocortisone	S01B
+mydriatics	S01B
+rifampicin	J04A
+isoniazid	J04A
+dabigatran etexilate	B01A
+nicotinic acid	C10A
+nicotine	N07B
+phenylephrine	S01F
+ketorolac	S01F
+diphenhydramine	R06A
+tagraxofusp	L01X
+diphtheria-hepatitis B-pertussis-tetanus	J07C
+granisetron	A04A
+prasterone	A14A
+quinupramine	N06A
+metipranolol	C07B
+thiazides	C07B
+potassium clorazepate	N05B
+stepronin	R05C
+pyrimethamine	P01B
+melatonin	N05C
+cinolazepam	N05C
+myristyl-benzalkonium	R02A
+domiphen	A01A
+amlodipine	C08C
+celecoxib	C08C
+gefarnate	A02B
+fluocortolone	C05A
+efavirenz	J05A
+floctafenine	N02B
+calcium glubionate	A12A
+acetylglycinamide chloral hydrate	N05C
+sumatriptan	N02C
+cefmenoxime	J01D
+ferric oxide polymaltose complexes	B03A
+cilansetron	A03A
+tiadenol	C10A
+ascorbic acid	A11G
+cough suppressants	R05F
+expectorants	R05F
+lansoprazole	A02B
+metronidazole	A02B
+reserpine	C02L
+diuretics with psycholeptics	C02L
+isosorbide dinitrate	C01D
+otilonium bromide	A03C
+psycholeptics	A03C
+magaldrate	A02A
+antiflatulents	A02A
+pemigatinib	L01E
+magnesium peroxide	A02A
+calcium glycerylphosphate	A12A
+antibiotics in combination with other drugs	S01A
+pazopanib	L01E
+felbinac	M02A
+imiquimod	D06B
+methocarbamol with psycholeptics	M03B
+indium (111In) tropolonate labelled cells	V09H
+bupranolol	C07A
+medroxyprogesterone	G03F
+estrogen	G03F
+berotralstat	B06A
+formoterol	R03A
+tiotropium bromide	R03A
+bismuth subcitrate	A02B
+metronidazole	A02B
+cyclopenthiazide	C03A
+amlexanox	R03D
+ivacaftor	R07A
+lumacaftor	R07A
+levodopa	N04B
+ethylmorphine	R05D
+roflumilast	R03D
+benzoyl peroxide	D10A
+dimercaprol	V03A
+diphtheria-poliomyelitis-tetanus	J07C
+padeliporfin	L01X
+azithromycin	S01A
+dexmethylphenidate	N06B
+enalapril	C09B
+nitrendipine	C09B
+pomalidomide	L04A
+indometacin	C01E
+dipiperonylaminoethanol	N05C
+diphtheria-hepatitis B-tetanus	J07C
+sodium monofluorophosphate	A01A
+ticarcillin	J01C
+beta-lactamase inhibitor	J01C
+methaqualone	N05C
+triclofos	N05C
+methazolamide	S01E
+sulfathiazole	J01E
+(2-benzhydryloxyethyl)diethyl-methylammonium iodide	A03A
+lamivudine	J05A
+abacavir	J05A
+cortisone	S01B
+ancrod	B01A
+prednisolone	S02B
+clobetasol	D07C
+antibiotics	D07C
+oxycinchophen	M01C
+darunavir	J05A
+orlistat	A08A
+permethrin	P03A
+immunoglobulins human intravascular adm.	J06B
+atorvastatin acid	C10B
+ramipril	C10B
+octenidine	R02A
+tenonitrozole	P01A
+sargramostim	L03A
+gusperimus	L04A
+thiocolchicoside	M03B
+nialamide	N06A
+mineral salts in combination	A06A
+vancomycin	J01X
+pheneticillin	J01C
+teneligliptin	A10B
+tiemonium iodide	A03D
+analgesics	A03D
+naftifine	D01A
+aluminium chloride	D10A
+tiazotic acid	C01E
+dexamethasone	S03C
+antiinfectives	S03C
+piracetam	N06B
+doxofylline	R03D
+fluorodopa (18F)	V09I
+cefditoren	J01D
+zinc acetate	A16A
+emtricitabine alafenamide	J05A
+cobicistat	J05A
+betamethasone	S01C
+antiinfectives	S01C
+hydrotalcite	A02A
+zonisamide	N03A
+rabies virus	J07B
+morclofone	R05D
+cromoglicic acid	D11A
+krypton (81mKr) gas	V09E
+fluorocarbon blood substitutes	B05A
+flupentixol	N05A
+tegaserod	A06A
+typhoid with paratyphi types	J07A
+halothane	N01A
+mannitol	A06A
+ferrous sulfate	B03A
+technetium (99mTc) butedronic acid	V09B
+prednimustine	L01A
+ponesimod	L04A
+dextromethorphan	N07X
+acetyldihydrocodeine	R05D
+azapetine	C04A
+morphine	N02A
+aducanumab	N06D
+beraprost	B01A
+iocetamic acid	V08A
+barbital	N05C
+floxuridine	L01B
+methylcellulose	A06A
+ferric oxide polymaltose complexes	B03A
+chlormezanone excl. psycholeptics	M03B
+norethisterone	G03A
+ethinylestradiol	G03A
+hemoglobin raffimer	B05A
+trastuzumab	L01F
+broxyquinoline	A07A
+niperotidine	A02B
+rasagiline	N04B
+povidone-iodine	D09A
+ulinastatin	B02A
+cloxazolam	N05B
+methylnaltrexone bromide	A06A
+etofamide	P01A
+betaine hydrochloride	A09A
+encephalitis attenuated	J07B
+propenidazole	P01A
+dithranol	D05A
+acetylcysteine	R05C
+buprenorphine	N07B
+apronal	N05C
+odevixibat	A05A
+pralsetinib	L01E
+dexamethasone	S02C
+antiinfectives	S02C
+norgestimate	G03A
+ethinylestradiol	G03A
+dexmedetomidine	N05C
+vortioxetine	N06A
+retinol	D10A
+eravacycline	J01A
+gamolenic acid	D11A
+tiratricol	D11A
+neomycin	B05C
+encephalitis borne immunoglobulin	J06B
+prenylamine	C01D
+miconazole	A07A
+mibefradil	C08C
+syrosingopine	C02L
+diuretics	C02L
+magnesium sulfate	B05X
+arimoclomol	N07X
+chloramphenicol	J01B
+trimegestone	G03F
+estrogen	G03F
+oteseconazole	J02A
+bermekimab	L01F
+tioxolone	D10A
+rosuvastatin	C10B
+ramipril	C10B
+melevodopa	N04B
+decarboxylase inhibitor	N04B
+mivacurium chloride	M03A
+ioxitalamic acid	V08A
+otilonium bromide	A03A
+norethisterone	G03F
+estrogen	G03F
+perindopril	C09A
+prolintane	N06B
+tinidazole	J01X
+cough suppressants	R05F
+mucolytics	R05F
+dexpanthenol	S01X
+isoniazid	J04A
+ruxolitinib	L01E
+calcium alginate	B02B
+lansoprazole	A02B
+clarithromycin	A02B
+etybenzatropine	N04A
+folic acid	V04C
+rifampicin	J04A
+isoniazid	J04A
+micafungin	J02A
+dihexyverine	A03A
+menthae piperitae aetheroleum	A03A
+metipranolol	S01E
+stanozolol	A14A
+rifamycin	J04A
+prilocaine	N01B
+sodium aurotiosulfate	M01C
+nemonoxacin	J01M
+ethyl chloride	N01B
+sodium nitrite	V03A
+prednisolone	S01B
+mydriatics	S01B
+oseltamivir	J05A
+idursulfase beta	A16A
+cholic acid	A05A
+magnesium carbonate	A02A
+bromfenac	S01B
+ephedrine	A08A
+ramucirumab	L01F
+monobenzone	D11A
+aluminium acetoacetate	A02A
+avelumab	L01F
+nitrazepam	N05C
+zidovudine	J05A
+lamivudine	J05A
+desaspidin	P02D
+natamycin	S01A
+clocortolone	D07A
+oxandrolone	A14A
+tropisetron	A04A
+dihydrocodeine	N02A
+paracetamol	N02A
+sodium iodide (131I)	V09F
+misoprostol	G02A
+meloxicam	M01A
+orgotein	M01A
+rimegepant	N02C
+glutamine	A16A
+attapulgite	A07B
+albumin tannate	A07X
+amfetamine	N06B
+montelukast	R03D
+rimantadine	J05A
+organic nitrates in combination	C01D
+"papillomavirus (human types 6, 11, 16, 18)"	J07B
+flumedroxone	N02C
+trastuzumab duocarmazine	L01F
+ranolazine	C01E
+Food allergenic extracts	V01A
+combinations of different antibiotics	S01A
+gilteritinib	L01E
+chlortetracycline	J01A
+tirilazad	N07X
+phenoperidine	N01A
+cefotetan	J01D
+formocortal	S01B
+opium derivatives	R05F
+expectorants	R05F
+fluoxetine	N06C
+psycholeptics	N06C
+dexpanthenol	D03A
+orphenadrine	M03B
+sulglicotide	A02B
+pepsin	A09A
+acid preparations	A09A
+fibrinolysin	B06A
+desoxyribonuclease	B06A
+influenza virus or surface antigen	J07B
+tiotropium bromide	R03B
+artesunate	P01B
+pyrimethamine	P01B
+diphtheria-haemophilus influenzae B-pertussis-tetanus-hepatitis B	J07C
+iodine (125I) CC49-monoclonal antibody	V09I
+dextropropoxyphene	N02A
+prazepam	N05B
+sulpiride	N05A
+combinations of rauwolfia alkoloids	C02A
+naratriptan	N02C
+carbasalate calcium	N02B
+vonoprazan	A02B
+vilanterol	R03A
+fluticasone furoate	R03A
+physostigmine	V03A
+tretinoin	D10A
+terizidone	J04A
+azlocillin	J01C
+chlorobutanol	A04A
+cariprazine	N05A
+diphenhydramine	D04A
+ornithine oxoglurate	A05B
+trovafloxacin	J01M
+oritavancin	J01X
+ketamine	N01A
+salicylic acid	D01A
+garenoxacin	J01M
+oxacillin	J01C
+lactic acid producing organisms	A07F
+dienogest	G03A
+estradiol	G03A
+mercury compounds	S01A
+eribulin	L01X
+lamivudine	J05A
+tenofovir disoproxil	J05A
+avapritinib	L01E
+ethotoin	N03A
+mandelic acid	J01X
+hydroxyethylstarch	B05A
+betamethasone	S01C
+cholera cell	J07A
+faldaprevir	J05A
+chondroitin sulfate	M01A
+evolocumab	C10A
+metizoline	R01A
+epoprostenol	B01A
+various antiseptic throat preparations	R02A
+meclozine	R06A
+acetylleucine	N07C
+cimetropium bromide	A03B
+clomethiazole	N05C
+theophylline	R03D
+adrenergics	R03D
+oxaflozane	N06A
+carbachol	S01E
+buflomedil	C04A
+zalcitabine	J05A
+Other irrigating solution combinations in ATC	B05C
+tetramethrin	P03B
+procaine	C05A
+naproxen	M01A
+misoprostol	M01A
+insulin (pork)	A10A
+dipyrocetyl excl. psycholeptics	N02B
+meropenem	J01D
+ispaghula (psylla seeds)	A06A
+atazanavir	J05A
+ritonavir	J05A
+plecanatide	A06A
+chymotrypsin	B06A
+ferrous fumarate	B03A
+almasilate	A02A
+pipazetate	R05D
+dexamethasone	S01C
+diflunisal	N02B
+oxytetracycline	J01A
+ibritumomab tiuxetan (90Y)	V10X
+cepeginterferon alfa-2b	L03A
+valnoctamide	N05C
+estrone	G03C
+prednisolone	S02C
+antiinfectives	S02C
+norethisterone	G03A
+ethinylestradiol	G03A
+sulfametrole	J01E
+trimethoprim	J01E
+norgestrel	G03A
+ethinylestradiol	G03A
+propyliodone	V08A
+zotepine	N05A
+ferrous tartrate	B03A
+duloxetine	N06A
+coagulation factor XIII	B02B
+alvimopan	A06A
+azilsartan medoxomil	C09D
+diuretics	C09D
+hydrochloric acid	A09A
+artenimol	P01B
+Amide local anesthetic combinations	N01B
+sarecycline	J01A
+calcium gluconate	D11A
+mitiglinide	A10B
+apraclonidine	S01E
+metformin	A10B
+gemigliptin	A10B
+virginiamycin	D06A
+gemifloxacin	J01M
+roxatidine	A02B
+patisiran	N07X
+chlorzoxazone excl. psycholeptics	M03B
+adapalene	D10A
+indium (111In) imciromab	V09G
+valproic acid	N03A
+simvastatin	C10B
+acetylsalicylic acid	C10B
+clofenotane	P03A
+nafcillin	J01C
+pertussis cell	J07A
+selenium compounds	D11A
+potassium phosphate. combinations with other potassium salts	B05X
+morphine	N02A
+antispasmodics	N02A
+other cough suppressant combinations in ATC	R05D
+mephenytoin	N03A
+atropine	A03B
+almitrine	R07A
+oxyfedrine	C01D
+elbasvir	J05A
+dehydroemetine	P01A
+felbamate	N03A
+colestilan	V03A
+mepyramine theophyllinacetate	R03D
+foscarnet	J05A
+propiverine	G04B
+glecaprevir	J05A
+pibrentasvir	J05A
+miglustat	A16A
+glycerol	A06A
+enoxaparin	B01A
+indium (111In) satumomab pendetide	V09I
+cefcapene	J01D
+collagenase	D03B
+poliomyelitis oral attenuated	J07B
+butenafine	D01A
+sotalol	C07B
+thiazides	C07B
+lactulose	A06A
+bacampicillin	J01C
+cefotiam	J01D
+chloramphenicol	G01A
+esketamine	N01A
+quassia	P03A
+technetium (99mTc) exametazime	V09A
+carteolol	S01E
+lurbinectedin	L01X
+metandienone	A14A
+diazepam	N05B
+peramivir	J05A
+beclamide	N03A
+obeticholic acid	A05A
+dyclonine	N01B
+betamethasone	S03B
+ofloxacin	S01A
+clemastine	R06A
+avatrombopag	B02B
+broxyquinoline	P01A
+glycopyrronium	D11A
+aloglutamol	A02A
+polymyxin B	S02A
+pipenzolate	A03C
+psycholeptics	A03C
+sacituzumab govitecan	L01F
+atorvastatin acid	C10B
+perindopril	C10B
+erenumab	N02C
+iron	B03A
+minerals	B03A
+dipyrocetyl with psycholeptics	N02B
+roxithromycin	J01F
+homatropine methylbromide	A03C
+psycholeptics	A03C
+eculizumab	L04A
+fluconazole	J02A
+potassium acetate	B05X
+leuprorelin	L02A
+bicalutamide	L02A
+imiglucerase	A16A
+iodine (131I) human albumin	V09X
+quinidine excl. psycholeptics	C01B
+mercaptamine	A16A
+nalbuphine	N02A
+ascorbic acid	A11G
+calcium	A11G
+ceratonia	A07X
+clofarabine	L01B
+ioglicic acid	V08A
+benzilone	A03A
+galsulfase	A16A
+lysozyme	J05A
+thiamphenicol	J01B
+phenylephrine	S01F
+clobetasone	S01C
+antiinfectives	S01C
+fluorouracil	L01B
+clenbuterol	R03C
+ambroxol	R03C
+oxycodone	N02A
+naloxone	N02A
+ornidazole	J01X
+alteplase	S01X
+bisoprolol	C07A
+triheptanoin	A16A
+camylofin	A03A
+polynoxylin	A01A
+orciprenaline	R03C
+chlorzoxazone with psycholeptics	M03B
+ethambutol	J04A
+isoniazid	J04A
+various other intestinal adsorbents in ATC	M02A
+anidulafungin	J02A
+argatroban	B01A
+methohexital	N01A
+piromidic acid	J01M
+stavudine	J05A
+nevirapine	J05A
+methantheline	A03A
+rimonabant	A08A
+benazepril	C09B
+diuretics	C09B
+retifanlimab	L01F
+desogestrel	G03A
+diphtheria-pertussis-poliomyelitis-tetanus-hepatitis B	J07C
+clofedanol	R05D
+dimetotiazine	N02C
+amoxicillin	J01C
+tegoprazan	A02B
+mosapramine	N05A
+propanidid	N01A
+undecylenic acid	D01A
+aceclidine	S01E
+etoperidone	N06A
+quinine with psycholeptics	M09A
+interferon alfacon-1	L03A
+tildrakizumab	L04A
+tidiacic arginine	A05B
+moxifloxacin	J01M
+ethenzamide excl. psycholeptics	N02B
+ethosuximide	N03A
+ramelteon	N05C
+amifostine	V03A
+silver compounds	S01A
+deslanoside	C01A
+paracetamol	N02B
+flucloxacillin	J01C
+bulevirtide	J05A
+metopimazine	A04A
+diphenhydramine methylbromide	D04A
+tetanus immunoglobulin	J06B
+morinamide	J04A
+diprophylline	R03D
+homatropine methylbromide	A03B
+ordinary salt combinations	A02A
+antiflatulents	A02A
+nitroxoline	J01X
+simeprevir	J05A
+fluorometholone	S01C
+chlorhexidine	D08A
+bevantolol	C07B
+thiazides	C07B
+tramadol	N02A
+paracetamol	N02A
+loperamide	A07D
+latamoxef	J01D
+rota virus attenuated	J07B
+bromisoval	N05C
+acadesine	C01E
+proscillaridin	C01A
+alirocumab	C10A
+zipeprol	R05D
+stavudine	J05A
+rabeprazole	A02B
+metronidazole	A02B
+mepartricin	A01A
+rimexolone	S01B
+mosapride	A03F
+"papillomavirus (human types 16, 18)"	J07B
+cenegermin	S01X
+fluspirilene	N05A
+pirenzepine	A02B
+riluzole	N07X
+isothipendyl	R06A
+influenza attenuated	J07B
+phenothrin	P03A
+hyaluronidase	B06A
+lansoprazole	A02B
+emtricitabine alafenamide	J05A
+cobicistat	J05A
+textile allergenic extracts	V01A
+ketobemidone	N02A
+lymecycline	J01A
+levobupivacaine	N01B
+celecoxib	L01X
+multienzymes	A09A
+acid preparations	A09A
+artesunate	P01B
+pyrimethamine	P01B
+hepatitis B antigen	J07B
+istradefylline	N04C
+alprazolam	N05B
+benorilate	N02B
+omidenepag	S01E
+etidocaine	N01B
+arginine glutamate	A05B
+cefotaxime	J01D
+fosfonet	J05A
+lascufloxacin	J01M
+dienogest	G03A
+ethinylestradiol	G03A
+acetic acid	S02A
+estradiol	G03C
+xenon	N01A
+azelaic acid	D10A
+ingenol mebutate	D06B
+cenobamate	N03A
+zoster antigen	J07B
+triptorelin	L02A
+cascara	A06A
+vosaroxin	L01X
+cefaloridine	J01D
+atropine	A03C
+psycholeptics	A03C
+methocarbamol excl. psycholeptics	M03B
+pertussis immunoglobulin	J06B
+carbamazepine	N03A
+iopromide	V08A
+peginterferon alfa-2b	L03A
+bisacodyl	A06A
+iron	B03A
+multivitamins	B03A
+nifurtoinol	J01X
+butorphanol	N02A
+tulobuterol	R03C
+cardioplegia solutions	B05X
+nepinalone	R05D
+alitretinoin	D11A
+ferrous aspartate	B03A
+"meningococcus A,C purified polysaccharides antigen"	J07A
+retinol	S01X
+streptomycin	A07A
+edrecolomab	L01F
+penamecillin	J01C
+phthalylsulfathiazole	A07A
+meprobamate	N05B
+isoprenaline	R03C
+sulfamazone	J01E
+dixanthogen	P03A
+fluoride	A12C
+rhenium (186Re) etidronic acid	V10B
+fenoverine	A03A
+spironolactone	C03D
+follitropin delta	G03G
+travoprost	S01E
+protionamide	J04A
+axitinib	L01E
+biotin	A11H
+heparin	B01A
+moroxydine	J05A
+estramustine	L01X
+nystatin	G01A
+tranexamic acid	B02A
+roxadustat	B03X
+diclofenac	D11A
+technetium (99mTc) antimelanoma antibody	V09I
+oxyphenbutazone	S01B
+omadacycline	J01A
+tamsulosin	G04C
+tadalafil	G04C
+cinnarizine	N07C
+rosuvastatin	C10B
+fimasartan	C10B
+ulobetasol	D07A
+etifoxine	N05B
+reserpine	C02L
+diuretics with other drugs	C02L
+tofacitinib	L04A
+theodrenaline	C01C
+cefatrizine	J01D
+phenindione	B01A
+nicotinyl methylamide	A05A
+dexamethasone	S01C
+antiinfectives	S01C
+budipine	N04B
+talampicillin	J01C
+dronabinol	A04A
+nimorazole	P01A
+linsidomine	C01D
+cloperastine	R05D
+naphazoline	S01G
+belimumab	L04A
+etallobarbital	N05C
+aluminium glycinate	A02A
+epinephrine	B02B
+pamiparib	L01X
+carglumic acid	A16A
+trientine	A16A
+carbenoxolone with psycholeptics	A02B
+rosuvastatin	C10B
+indapamide	C10B
+sibutramine	A08A
+mumps attenuated	J07B
+bifonazole	D01A
+diatrizoic acid	V08A
+agalsidase alfa	A16A
+fluorometholone	S01B
+mydriatics	S01B
+zinc sulfate	B05X
+glycopyrronium bromide	A03A
+beinaglutide	A10B
+fluorometholone	D10A
+norethandrolone	A14A
+dolasetron	A04A
+electrolytes with carbohydrates	B05B
+latanoprostene bunod	S01E
+perampanel	N03A
+gentamicin	S01A
+nelarabine	L01B
+lumasiran	A16A
+flucytosine	J02A
+caroverine	A03A
+heptabarbital	N05C
+tetanus toxoid with diphtheria toxoid	J07A
+melagatran	B01A
+celiprolol	C07A
+lidocaine	S02D
+oxycodone	N02A
+naltrexone	N02A
+vorapaxar	B01A
+somatrogon	H01A
+diosmectite	A07B
+doxylamine	R06A
+aliskiren	C09X
+etodolac	M01A
+fotemustine	L01A
+pipemidic acid	J01M
+triamcinolone	A01A
+alverine	A03A
+hexobarbital	N01A
+combinations of tetracyclines	J01A
+clioquinol	P01A
+aluminium hydroxide	A02A
+miconazole	D01A
+fostamatinib	B02B
+phenol	N01B
+candesartan	C09C
+tafasitamab	L01F
+rubella attenuated	J07B
+ramipril	C09A
+technetium (99mTc) sestamibi	V09G
+zinc chloride	B05X
+gestonorone	L02A
+ceftizoxime	J01D
+combinations of corticosteroids	D07X
+zolmitriptan	N02C
+rota virus	J07B
+bisoprolol	C07B
+thiazides	C07B
+chlorquinaldol	G01A
+saquinavir	J05A
+difenoxin	A07D
+moxisylyte	G04B
+mannosulfan	L01A
+feprazone	M01A
+linezolid	J01X
+chymotrypsin	S01K
+magnesium carbonate	A06A
+various antiinfectives	A01A
+antiseptics for local oral treatment	A01A
+measles with rubella attenuated	J07B
+diclofenac	S01C
+antiinfectives	S01C
+metronidazole	A01A
+loteprednol	S01B
+butaperazine	N05A
+bevonium	A03A
+carteolol	C07A
+lamivudine	J05A
+dolutegravir	J05A
+fimasartan	C09D
+amlodipine	C09D
+hepatitis A virus	J07B
+guanethidine	S01E
+artenimol	P01B
+piperaquine	P01B
+lidocaine	N01B
+quingestanol	G03A
+typhoid attenuated	J07A
+cyclothiazide	C03A
+calcium citrate	A12A
+acetazolamide	S01E
+mirtazapine	N06A
+methaqualone	N05C
+rabeprazole	A02B
+metabutethamine	N01B
+naloxone	V03A
+plague cell	J07A
+oxetorone	N02C
+carindacillin	J01C
+articaine	N01B
+interferon alfa-2a	L03A
+sodium bicarbonate	B05C
+pneumococcus purified polysaccharides antigen	J07A
+haemophilus influenzae	J07A
+smallpox vaccines	J07B
+ecothiopate	S01E
+flurbiprofen	M01A
+ibalizumab	J05A
+antithymocyte immunoglobulin (rabbit)	L04A
+metformin	A10B
+vildagliptin	A10B
+calcium pantothenate	A11H
+entrectinib	L01E
+flurbiprofen	M02A
+cilazapril	C09B
+diuretics	C09B
+varicella/zoster immunoglobulin	J06B
+xibornol	J01X
+sodium phosphate (32P)	V10X
+sodium folinate	V03A
+haemophilus influenzae B with pertussis	J07A
+toxoids	J07A
+metildigoxin	C01A
+zinc compounds	S01A
+tasimelteon	N05C
+propanol	D08A
+diacerein	M01A
+iclaprim	J01E
+butylscopolamine	A03B
+nebacumab	J06B
+cetuximab	L01F
+acetoxolone	A02B
+rutoside	C05C
+buclizine	R06A
+ticlopidine	B01A
+potassium polysulfide	P03A
+gemtuzumab ozogamicin	L01F
+darolutamide	L02B
+clometocillin	J01C
+hachimycin	G01A
+ethyl biscoumacetate	B01A
+furazidin	J01X
+sulfaguanidine	A07A
+ranitidine	A02B
+magnesium pidolate	A12C
+tiocarlide	J04A
+tositumomab/iodine (131I) tositumomab	V10X
+aminohippuric acid	V04C
+cefepime	J01R
+amikacin	J01R
+penimepicycline	J01A
+narcobarbital	N01A
+hymecromone	A05A
+efloxate	C01D
+metronidazole	P01A
+luspatercept	B03X
+aminomethylbenzoic acid	B02A
+atorvastatin	C10B
+perindopril	C10B
+enoxolone	D03A
+idanpramine	A03A
+histapyrrodine	R06A
+fluoroethyl-L-tyrosine (18F)	V09I
+technetium (99mTc) pentavalent succimer	V09I
+tafluprost	S01E
+tyropanoic acid	V08A
+methysergide	N02C
+cefapirin	J01D
+insulin lispro	A10A
+sodium tartrate	A06A
+flutemetamol (18F)	V09A
+propofol	N01A
+prednisone	A07E
+agomelatine	N06A
+coagulation factor VIIa	B02B
+bisacodyl	A06A
+alglucosidase alfa	A16A
+aldesulfone sodium	J04B
+givosiran	A16A
+secnidazole	P01A
+flumetasone	S02C
+antiinfectives	S02C
+histrelin	L02A
+fenfluramine	N03A
+aminophylline	R03D
+diazoxide	C02D
+alefacept	L04A
+medroxyprogesterone	G03A
+estradiol	G03A
+sulbenicillin	J01C
+nabilone	A04A
+diphenylpyraline	R06A
+lithium succinate	D11A
+eptifibatide	B01A
+adipiodone	V08A
+capreomycin	J04A
+benzylpenicillin	J01C
+sulfametoxydiazine	J01E
+measles immunoglobulin	J06B
+grazoprevir	J05A
+aluminium oxide	D10A
+dantron. combinations	A06A
+pravastatin	C10B
+acetylsalicylic acid	C10B
+bucetin excl. psycholeptics	N02B
+artemisinin	P01B
+terbutaline	R03C
+nadroparin	B01A
+factor VIII inhibitor bypassing activity	B02B
+oxcarbazepine	N03A
+heparin	C05B
+capecitabine	L01B
+iotrolan	V08A
+palbociclib	L01E
+methohexital	N05C
+ferrous carbonate	B03A
+amikacin	S01A
+bufexamac	M02A
+calcium citrate lysine complex	A12A
+magnesium hydroxide	A02A
+umifenovir	J05A
+levocetirizine	R06A
+lansoprazole	A02B
+metronidazole	A02B
+deoxycholic acid	D11A
+methyclothiazide	C03A
+lansoprazole	A02B
+tinidazole	A02B
+eprozinol	R03D
+pralidoxime	V03A
+fenspiride	R03B
+fat emulsions	B05B
+afelimomab	L04A
+befunolol	S01E
+diphtheria-pertussis-poliomyelitis-tetanus	J07C
+belzutifan	L01X
+levonorgestrel	G03A
+ambenonium	N07A
+meprobamate	N05C
+metenolone	A14A
+multivitamins	A11A
+calcium	A11A
+ramipril	C09B
+amlodipine	C09B
+lisdexamfetamine	N06B
+urokinase	B01A
+tocilizumab	L04A
+enoxacin	J01M
+fluorescein	S01J
+lumateperone	N05A
+interferon gamma	L03A
+poldine	A03A
+sulfamethizole	J01E
+vestronidase alfa	A16A
+iobitridol	V08A
+metformin	A10B
+sitagliptin	A10B
+tiemonium iodide	A03A
+tenofovir disoproxil	J05A
+emtricitabine	J05A
+galcanezumab	N02C
+sirolimus	S01X
+zofenopril	C09A
+olaflur	A01A
+sotalol	C07F
+acetylsalicylic acid	C07F
+trifluridine	S01A
+oxyquinoline	A01A
+dexamethasone	C05A
+bietaserpine	C02A
+etonogestrel	G03A
+calcium gluconate	A12A
+itraconazole	J02A
+colistin	A07A
+netarsudil	S01E
+measles attenuated	J07B
+c1-inhibitor derived	B06A
+mebeverine	A03A
+estriol	G03C
+interferon beta-1b	L03A
+nadifloxacin	D10A
+gadobenic acid	V08C
+ferrous gluconate	B03A
+Imidazole	D01A
+triazole derivative topical antifungal combinations	D01A
+hydrocortisone	H02A
+trolnitrate	C01D
+glycopyrronium bromide	A03C
+psycholeptics	A03C
+sisomicin	J01G
+insulin aspart	A10A
+methylrosaniline	G01A
+thrombocytes	B05A
+dapiprazole	S01E
+mepivacaine	N01B
+zoledronic acid	M05B
+colecalciferol	M05B
+menadione	B02B
+misoprostol	A02B
+measles with mumps	J07B
+varicella attenuated	J07B
+other medicated shampoos in ATC	D11A
+clotrimazole	A01A
+alosetron	A03A
+ethanol	V03A
+sulbactam	J01C
+metharbital	N03A
+lisinopril	C09B
+diuretics	C09B
+insulin (beef)	A10A
+metformin	A10B
+rosiglitazone	A10B
+saccharomyces boulardii	A07F
+erythromycin	D10A
+megestrol	G03A
+inebilizumab	L04A
+dextromethorphan	R05D
+sipuleucel-T	L03A
+methylpentynol	N05C
+multivitamins	A11A
+trace elements	A11A
+pizotifen	N02C
+esomeprazole	A02B
+methiosulfonium chloride	A02B
+demecarium	S01E
+golodirsen	M09A
+diclofenamide	S01E
+brinase	B01A
+interferon alfa-2b	L03A
+ebola vaccines	J07B
+mesna	V03A
+tecovirimat	J05A
+vonoprazan	A02B
+clarithromycin	A02B
+technetium (99mTc) rheniumsulfide colloid	V09D
+pioglitazone	A10B
+alogliptin	A10B
+raxibacumab	J06B
+methylatropine	A03B
+clofoctol	J01X
+ketotifen	S01G
+ribavirin	J05A
+metoprolol	C07B
+thiazides	C07B
+ceftazidime	J01D
+hexamidine	R02A
+cyfluthrin	P03B
+loperamide oxide	A07D
+apomorphine	G04B
+propyphenazone excl. psycholeptics	N02B
+ripasudil	S01E
+gitoformate	C01A
+acetarsol	P01C
+diphtheria-haemophilus influenzae B-pertussis-tetanus-hepatitis B-meningococcus A + C	J07C
+magnesium oxide	A06A
+hexetidine	A01A
+cannabinoids	N02B
+artificial tears	S01X
+other indifferent preparations	S01X
+risankizumab	L04A
+fondaparinux	B01A
+ofloxacin	J01M
+levamlodipine	C08C
+hydroxyethylpromethazine	R06A
+darunavir	J05A
+cobicistat	J05A
+axicabtagene ciloleucel	L01X
+fludroxycortide	D07A
+tree pollen allergenic extracts	V01A
+carbamide	D02A
+belinostat	L01X
+chlorothiazide	C03A
+tertatolol	C07A
+mecillinam	J01C
+cefradine	J01D
+letosteine	R05C
+electrolytes	B05B
+daprodustat	B03X
+tinidazole	P01A
+propyphenazone with psycholeptics	N02B
+sitafloxacin	J01M
+hydrocortisone	S02C
+antiinfectives	S02C
+promestriene	G03C
+iodine iofetamine (123I)	V09A
+sodium oxybate	N01A
+betamethasone	A07E
+florbetapir (18F)	V09A
+piperidolate	A03A
+drospirenone	G03A
+ethinylestradiol	G03A
+retigabine	N03A
+dantron	A06A
+carbinoxamine	R06A
+oxedrine	S01G
+verapamil	C08D
+metrizamide	V08A
+sodium bicarbonate	B05X
+insulin aspart	A10A
+aprepitant	A04A
+temocillin	J01C
+hydroquinine	M09A
+warfarin	B01A
+cyclobarbital	N05C
+ferrous chloride	B03A
+meprotixol	R05D
+nystatin	G01A
+ciclonium	A03D
+analgesics	A03D
+telbivudine	J05A
+sulfamethoxypyridazine	J01E
+phenoxymethylpenicillin	J01C
+anethole trithione	A16A
+coblopasvir	J05A
+potassium citrate	A12B
+doxacurium chloride	M03A
+phenylpropanolamine	R01B
+dimethylaminopropionylphenothiazine	A03A
+fenpiprane	A03A
+teduglutide	A16A
+magnesium orotate	A12C
+cefbuperazone	J01D
+sodium sulfate	A06A
+mesulfen	P03A
+chloropyramine	D04A
+prednisolone	S01C
+antiinfectives	S01C
+parnaparin	B01A
+clorindione	B01A
+nicotinamide	A11H
+econazole	G01A
+balugrastim	L03A
+sitagliptin	A10B
+simvastatin	A10B
+erythropoietin	B03X
+desoxyribonuclease	B06A
+cefalotin	J01D
+clofenamide	C03B
+vintafolide	L01C
+dihydralazine	C02L
+diuretics with other drugs	C02L
+epinephrine	A01A
+glutethimide	N05C
+azithromycin	J01R
+secnidazole	J01R
+clomocycline	J01A
+naproxen	M01A
+esomeprazole	M01A
+oxytetracycline	G01A
+fluoroestradiol (18F)	V09I
+isobromindione	M04A
+cinepazet	C01D
+alfa1 antitrypsin	B02A
+calcium carbonate	A02A
+sulbentine	D01A
+pegvaliase	A16A
+palivizumab	J06B
+mepenzolate	A03A
+gallium (67Ga) citrate	V09H
+prednisolone	C05A
+fibrinolysin	B01A
+gemeprost	G02A
+dextropropoxyphene with psycholeptics	N02A
+algeldrate	A02A
+lixisenatide	A10B
+Iron in various other combinations	B03A
+pectin	A07B
+ascorbic acid	G01A
+allopurinol	M04A
+teriparatide	H05A
+donepezil	N06D
+memantine	N06D
+canakinumab	L04A
+scopolamine	S01F
+temafloxacin	J01M
+hydrogen peroxide	A01A
+stannous fluoride	A01A
+imidapril	C09A
+dimethyl fumarate	L04A
+ivacaftor	R07A
+tezacaftor	R07A
+prifinium bromide	A03A
+ioxilan	V08A
+xylometazoline	R01A
+allobarbital	N05C
+rifaximin	A07A
+quifenadine	R06A
+meningococcus A polysaccharides antigen conjugated	J07A
+metoprolol	C07F
+acetylsalicylic acid	C07F
+metrizoic acid	V08A
+methylpropylpropanediol dinitrate	C01D
+sultamicillin	J01C
+poly I:C	L03A
+iocarmic acid	V08A
+bevonium	A03C
+psycholeptics	A03C
+dibekacin	J01G
+insulin glulisine	A10A
+omoconazole	G01A
+sulfathiourea	J01E
+calcium carbonate	A12A
+gadobutrol	V08C
+ichtasol	D10B
+senna glycosides	A06A
+micronomicin	S01A
+cocaine	S02D
+hydrogen peroxide	D11A
+bempedoic acid	C10B
+ezetimibe	C10B
+icatibant	B06A
+noretynodrel	G03F
+estrogen	G03F
+pantoprazole	A02B
+clarithromycin	A02B
+stibophen	P02B
+conjugated estrogens	G03C
+bazedoxifene	G03C
+risedronic acid	M05B
+colecalciferol	M05B
+asfotase alfa	A16A
+prednisolone	V03A
+promethazine	V03A
+nimustine	L01A
+fenspiride	R03D
+enalapril	C09B
+lercanidipine	C09B
+crizanlizumab	B06A
+tetanus toxoid with tetanus immunoglobulin	J07A
+carbohydrates	B05B
+ocrelizumab	L04A
+Adrenergic	C01C
+dopaminergic agents combinations	C01C
+timolol	S01E
+metamizole sodium excl. psycholeptics	N02B
+basiliximab	L04A
+adalimumab	L04A
+diphtheria-rubella-tetanus	J07C
+multivitamins	A11A
+other minerals. combinations	A11A
+oxymetholone	A14A
+acetylsalicylic acid	N02B
+aciclovir	D06B
+erythrocytes	B05A
+chromium (51Cr) chromate labelled cells	V09G
+clebopride	A03F
+taurolidine	B05C
+phenylephrine	S01G
+tolazamide	A10B
+levonorgestrel	G03A
+ethinylestradiol	G03A
+dicloxacillin	J01C
+amodiaquine	P01B
+mercuric iodide	D08A
+potassium chloride	B05X
+valbenazine	N07X
+rebamipide	A02B
+papaverine	A03A
+ranitidine bismuth citrate	A02B
+sulfamoxole	J01E
+trimethoprim	J01E
+enprostil	A02B
+lindane	P03A
+bendamustine	L01A
+clonidine	S01E
+acetylsalicylic acid	B01A
+acetylsalicylic acid	A01A
+linagliptin	A10B
+empagliflozin	A10B
+phanquinone	P01A
+aflibercept	L01X
+calcipotriol	D05A
+ergoloid mesylates	C04A
+neostigmine	N07A
+oxantel	P02C
+entecavir	J05A
+alogliptin	A10B
+calcium chloride	B05X
+cefoperazone	J01D
+tofisopam	N05B
+thioctic acid	A16A
+teclozan	P01A
+cefteram	J01D
+midostaurin	L01E
+theophylline excl. psycholeptics	R03D
+nitrofural	P01C
+topiramate	N03A
+indium (111In) antiovariumcarcinoma antibody	V09I
+acetarsol	A07A
+dimefline	R07A
+clonidine	N02C
+ampicillin	J01C
+cefuroxime	J01D
+promethazine	R06A
+fosfestrol	L02A
+ibuprofen	M01A
+loracarbef	J01D
+dimeticone	P03A
+clofibride	C10A
+tolterodine	G04B
+daclatasvir	J05A
+beclabuvir	J05A
+onasemnogene abeparvovec	M09A
+carbon dioxide producing drugs	A06A
+sapropterin	A16A
+lactitol	A06A
+doxycycline	A01A
+various other anti-acne preparation combinations for topical use in ATC	D10A
+ferrous gluconate	B03A
+sulfasalazine	A07E
+ceftobiprole medocaril	J01D
+ertapenem	J01D
+gemcitabine	L01B
+lamivudine disoproxil	J05A
+doravirine	J05A
+ethulose	A06A
+artesunate	P01B
+pyronaridine	P01B
+talastine	R06A
+silymarin	A05B
+rufloxacin	J01M
+cimetidine	A02B
+etynodiol	G03A
+ethinylestradiol	G03A
+teicoplanin	J01X
+chondroitin sulfate-iron complex	B03A
+adenosine	C01E
+zoledronic acid	M05B
+calcium dobesilate	C05B
+benzododecinium	D09A
+methadone excl. psycholeptics	N02A
+insulin glargine	A10A
+sodium fluoride (18F)	V09I
+potassium salicylate	N02B
+piprozolin	A05A
+fosinopril	C09B
+diuretics	C09B
+pantethine	A11H
+desogestrel	G03A
+ethinylestradiol	G03A
+naloxegol	A06A
+prednisolone	S03C
+antiinfectives	S03C
+tetracaine	N01B
+scopolamine	A04A
+antithrombin III	B01A
+biphenylol	D08A
+sodium propionate	S01A
+bortezomib	L01X
+tretoquinol	R03C
+macimorelin	V04C
+regadenoson	C01E
+natamycin	G01A
+camylofin	A03D
+analgesics	A03D
+phenprocoumon	B01A
+elbasvir	J05A
+grazoprevir	J05A
+propicillin	J01C
+sodium phenylbutyrate	A16A
+chlorphenamine	R06A
+potassium hydrogentartrate	A12B
+magnesium citrate	A12C
+acetohydroxamic acid	G04B
+diisopromine	A03A
+magaldrate	A02A
+desfesoterodine	G04B
+mercury	D08A
+hydrocortisone	S01C
+antiinfectives	S01C
+etynodiol	G03D
+reviparin	B01A
+tetracycline	J01R
+oleandomycin	J01R
+copper usnate	G01A
+chlorhexidine	B05C
+empegfilgrastim	L03A
+darbepoetin alfa	B03X
+epinephrine	S01E
+drospirenone	G03A
+estetrol	G03A
+chlorpropamide	A10B
+flomoxef	J01D
+tetracaine	C05A
+amyl nitrite	V03A
+diloxanide	P01A
+artemether	P01B
+memantine	N06D
+tirofiban	B01A
+iobenzamic acid	V08A
+ifosfamide	L01A
+ioversol	V08A
+azacitidine	L01B
+cefazolin	J01D
+famotidine	A02B
+hyaluronic acid	S01K
+linseed	A06A
+paraoxon	S01E
+estriol	G03C
+coagulation factor IX	B02B
+dextropropoxyphene excl. psycholeptics	N02A
+fluciclovine (18F)	V09I
+ornidazole	P01A
+buserelin	L02A
+cyclobutyrol	A05A
+zofenopril	C09B
+diuretics	C09B
+tepotinib	L01E
+tetracycline	S02A
+tosufloxacin	J01M
+carbasalate calcium combinations excl. psycholeptics	N02B
+naphazoline	S01G
+heparin	C05B
+piperacillin	J01C
+thenalidine	R06A
+carboplatin	L01X
+casopitant	A04A
+atovaquone	P01A
+diphtheria immunoglobulin	J06B
+brimonidine	S01G
+hemoglobin glutamer (bovine)	B05A
+chlorobutanol	A04A
+iodine iolopride (123I)	V09A
+tixocortol	A07E
+sulfadiazine	J01E
+tetroxoprim	J01E
+tretinoin	D10A
+sodium chloride	B05X
+insulin degludec	A10A
+insulin aspart	A10A
+piperacillin	J01C
+beta-lactamase inhibitor	J01C
+sulfadimidine	J01E
+dienestrol	G03C
+sulfamethoxazole	J01E
+kanamycin	J01G
+ammonium chloride	G04B
+clindamycin	D10A
+gadoteridol	V08C
+ferrous amino acid complex	B03A
+paramethasone	H02A
+oprelvekin	L03A
+isopropamide	A03C
+psycholeptics	A03C
+pentaerithrityl tetranitrate	C01D
+iodamide	V08A
+benzydamine	M02A
+oxiconazole	G01A
+timolol	C07A
+dibutylsuccinate	P03B
+fulvestrant	L02B
+meclozine	R06A
+omeprazole	A02B
+clarithromycin	A02B
+carmustine	L01A
+atomoxetine	N06B
+cyanocobalamin tannin complex	B03B
+silicones	A03A
+betibeglogene autotemcel	B06A
+baricitinib	L04A
+betaxolol	S01E
+aminophenazone excl. psycholeptics	N02B
+bivalirudin	B01A
+clobazam	N05B
+caffeine	D11A
+Specific immunoglobulin combinations	J06B
+vinburnine	C04A
+aminolevulinic acid	L01X
+lisinopril	C09B
+amlodipine	C09B
+temgicoluril	N06B
+anakinra	L04A
+sebelipase alfa	A16A
+thiosulfate	V03A
+cinchocaine	S01H
+ranimustine	L01A
+certolizumab pegol	L04A
+spirapril	C09A
+aluminium phosphate	A02A
+prednisolone	A01A
+cyclopenthiazide	C03A
+potassium	C03A
+fumaric acid derivatives	D05B
+kaolin	A07B
+carboprost	G02A
+donepezil	N06D
+Ginkgo folium	N06D
+briakinumab	L04A
+methylscopolamine	S01F
+betamethasone	C05A
+naphazoline	R01A
+proxibarbal	N05C
+darvadstrocel	L04A
+parathyroid hormone	H05A
+technetium (99mTc) gluceptate	V09C
+roquinimex	L03A
+pentostatin	L01X
+ethacizine	C01B
+mirogabalin	N02B
+artemether	P01B
+lumefantrine	P01B
+technetium (99mTc) mebrofenin	V09D
+clofenamide	C03B
+potassium	C03B
+alclometasone	S01B
+iofendylate	V08A
+ropeginterferon alfa-2b	L03A
+mepixanox	R07A
+hyoscyamine	A03B
+nifuroxazide	A07A
+pivampicillin	J01C
+cefamandole	J01D
+oxamniquine	P02B
+solifenacin	G04B
+minocycline	A01A
+benzyl alcohol	P03A
+ordinary salt combinations	A02A
+salicylamide excl. psycholeptics	N02B
+dibrompropamidine	S01A
+sterculia	A06A
+saccharated iron oxide	B03A
+lamivudine	J05A
+dolutegravir	J05A
+artemisinin	P01B
+piperaquine	P01B
+mesalazine	A07E
+belumosudil	L04A
+bevonium	A03D
+analgesics	A03D
+doripenem	J01D
+prednicarbate	D07A
+polidocanol	C05B
+iobenguane (123I)	V09I
+tenecteplase	B01A
+thonzylamine	R06A
+other nasal preparation combinations in ATC	R01A
+perindopril	C09B
+diuretics	C09B
+colistin	J01X
+calcium acetate	V03A
+desonide	D07A
+chloroquine	P01B
+quingestanol	G03A
+ethinylestradiol	G03A
+triclosan	D09A
+defibrotide	B01A
+insulin detemir	A10A
+pyrazinamide	J04A
+metformin	A10B
+repaglinide	A10B
+ditazole	B01A
+cerium oxalate	A04A
+grepafloxacin	J01M
+perflenapent	V08D
+ferric acetyl transferrin	B03A
+sulfadimidine	J01E
+trimethoprim	J01E
+medroxyprogesterone	G03A
+ethinylestradiol	G03A
+mycophenolic acid	L04A
+cloxacillin	J01C
+oxetacaine	C05A
+butylscopolamine	A03D
+analgesics	A03D
+gestodene	G03A
+ethinylestradiol	G03A
+chymopapain	M09A
+tafenoquine	P01B
+somatorelin	V04C
+dextran	B05A
+brimonidine	S01E
+etilefrine	C01C
+pyrethrum	P03A
+pentetrazol	R07A
+carbutamide	A10B
+prednisolone	S01C
+dipyridamole	B01A
+mepacrine	P01A
+raltegravir	J05A
+glatiramer acetate	L03A
+mandelic acid	B05C
+benoxaprofen	M01A
+zopiclone	N05C
+flavoxate	G04B
+drisapersen	M09A
+ombitasvir	J05A
+ritonavir	J05A
+acefylline piperazine	R03D
+calcium glucoheptonate	A12A
+mometasone	R01A
+methionine	V03A
+cefpodoxime	J01D
+eluxadoline	A07D
+josamycin	J01F
+phloroglucinol	A03A
+macrogol	A06A
+lysozyme	D06B
+tacrolimus	L04A
+propranolol	C07A
+dibutylphthalate	P03B
+selexipag	B01A
+calcium silicate	A02A
+chlormadinone	G03D
+esmolol	C07A
+lincomycin	J01F
+susoctocog alfa	B02B
+lonazolac	M01A
+ciclobendazole	P02C
+ximelagatran	B01A
+metformin	A10B
+nizofenone	N06B
+procaine	S01H
+dexamethasone	A01A
+romiplostim	B02B
+ephedrine	S01F
+oxymetazoline	R01A
+rilmenidine	C02A
+finasteride	D11A
+quinapril	C09A
+norelgestromin	G03A
+ethinylestradiol	G03A
+acetrizoic acid	V08A
+telmisartan	C09C
+enfortumab vedotin	L01F
+nitrous oxide	N01A
+iron oxide	V08C
+various other agents for local oral treatment in ATC	A01A
+fenyramidol	M03B
+salicylamide with psycholeptics	N02B
+iohexol	V08A
+collagen	D11A
+sulfaperin	J01E
+pseudoephedrine	R01B
+nilutamide	L02B
+vincamine	C04A
+technetium (99mTc) bicisate	V09A
+ethylestrenol	A14A
+hydrochloric acid	B05X
+cromoglicic acid	R01A
+dilazep	C01D
+mercaptopurine	L01B
+agalsidase beta	A16A
+idarucizumab	V03A
+calcitriol	A11C
+lorcaserin	A08A
+exemestane	L02B
+nimodipine	C08C
+ornidazole	G01A
+uridine triacetate	A16A
+folic acid	B03B
+levonorgestrel	G03F
+estrogen	G03F
+morphine	N02A
+latanoprost	S01E
+polmacoxib	M01A
+griseofulvin	D01A
+Caries prophylactic agent combinations	A01A
+disulfiram	P03A
+clemastine	R06A
+sotagliflozin	A10B
+atenolol	C07A
+fibrinogen	B02B
+trometamol	B05B
+ciclonicate	C04A
+hydrocortisone	R01A
+miglitol	A10B
+poly ICLC	L03A
+androstanolone	A14A
+guanfacine	C02A
+ozanimod	L04A
+allopurinol	M04A
+levobunolol	S01E
+serelaxin	C01D
+hydroxocobalamin	B03B
+isradipine	C08C
+calcium lactate	A12A
+velmanase alfa	A16A
+fluoxymesterone	G03B
+histamine phosphate	V04C
+voxelotor	B06A
+droperidol	N05A
+uramustine	L01A
+isoniazid	J04A
+lidocaine	S01H
+landiolol	C07A
+raltitrexed	L01B
+aztreonam	J01D
+triclabendazole	P02B
+zinc sulfate	A12C
+rilonacept	L04A
+difelikefalin	V03A
+prolgolimab	L01F
+clofezone	M01A
+azilsartan medoxomil	C09C
+delapril	C09A
+ecallantide	B06A
+protein hydrolysates	B05B
+cyclopentolate	S01F
+fluorometholone	C05A
+methotrexate	L04A
+liothyronine sodium	H03A
+methyclothiazide	C03A
+potassium	C03A
+iodine (131I) norcholesterol	V09X
+sulprostone	G02A
+ethenzamide with psycholeptics	N02B
+cascara	A06A
+insulin (beef)	A10A
+formoterol	R03A
+beclometasone	R03A
+rupatadine	R06A
+benzethonium	R02A
+feprazone	M01A
+diphenadione	B01A
+technetium (99mTc) gluconate	V09C
+BCG vaccine	L03A
+abaloparatide	H05A
+ademetionine	A16A
+iotalamic acid	V08A
+albiglutide	A10B
+clidinium	A03C
+psycholeptics	A03C
+albumin tannate	A07X
+alprenolol	C07A
+fenticonazole	G01A
+neomycin	J01G
+nitrendipine	C08C
+sulfapyridine	J01E
+diroximel fumarate	L04A
+nicotinic acid	C10A
+sulfadiazine	J01E
+glasdegib	L01X
+ferrous fumarate	B03A
+canagliflozin	A10B
+docusate sodium. combinations	A06A
+hexaminolevulinate	V04C
+quinine	P01B
+progesterone	G03D
+brimonidine	D11A
+pheniramine	D04A
+olaratumab	L01F
+streptomycin	A07A
+oxatomide	R06A
+chlorhexidine	A01A
+isoprenaline	R03C
+valethamate	A03A
+metrifonate	P02B
+edoxudine	D06B
+lomustine	L01A
+cocaine	S01H
+ipecacuanha	V03A
+cefacetrile	J01D
+dimethylcarbate	P03B
+desirudin	B01A
+dirithromycin	J01F
+insulin degludec	A10A
+candesartan	C09D
+diuretics	C09D
+ramipril	C09B
+diuretics	C09B
+benzoyl peroxide	D10A
+hexapropymate	N05C
+megestrol	G03A
+ethinylestradiol	G03A
+linagliptin	A10B
+peficitinib	L04A
+ergoloid mesylates	C04A
+typhoid-hepatitis A	J07C
+iprazochrome	N02C
+perflutren microspheres	V08D
+cetylpyridinium	B05C
+glibenclamide	A10B
+fosphenytoin	N03A
+ferric citrate	V03A
+triamcinolone	D07A
+lynestrenol	G03A
+ethinylestradiol	G03A
+hydroxychloroquine	P01B
+sirukumab	L04A
+reserpine	C02L
+diuretics	C02L
+levofloxacin	J01M
+zolimidine	A02B
+lubiprostone	A06A
+arginine hydrochloride	B05X
+diphenoxylate	A07D
+technetium (99mTc) oxidronic acid	V09B
+meticillin	J01C
+chlormethine	L01A
+cloricromen	B01A
+phenylephrine	C01C
+cabergoline	G02C
+ceftaroline fosamil	J01D
+cloranolol	C07A
+omacetaxine mepesuccinate	L01X
+sodium selenite	A12C
+peginterferon alfa-2b	L03A
+histamine dihydrochloride	L03A
+noxytiolin	B05C
+quinethazone	C03B
+potassium	C03B
+bietaserpine	C02L
+diuretics	C02L
+glipizide	A10B
+pramocaine	C05A
+4-dimethylaminophenol	V03A
+isosorbide dinitrate	C05A
+broxyquinoline	G01A
+isotretinoin	D10B
+feather	V01A
+contact laxatives in combination with belladonna alkaloids	A06A
+tiracizine	C01E
+etamivan	R07A
+cefaclor	J01D
+drotaverine	A03A
+benzyl benzoate	P03A
+silver sulfadiazine	D06B
+itopride	A03F
+suprofen	M01A
+aceneuramic acid	M09A
+meladrazine	G04B
+caplacizumab	B01A
+peginterferon alfacon-2	L03A
+procaterol	R03C
+moxestrol	G03C
+trospium	G04B
+trimipramine	N06A
+artesunate	P01B
+mefloquine	P01B
+insect allergenic extracts	V01A
+trilaciclib	V03A
+emtricitabine alafenamide	J05A
+bictegravir	J05A
+dimetindene	R06A
+sevelamer	V03A
+dasiprotimut-T	L03A
+silodosin	G04C
+sodium feredetate	B03A
+alendronic acid	M05B
+framycetin	D09A
+benralizumab	R03D
+invert sugar	C05B
+iobenguane (131I)	V09I
+olmesartan medoxomil	C09C
+fosdenopterin	A16A
+formoterol	R03A
+glycopyrronium bromide	R03A
+hydroflumethiazide	C03A
+oxyphenonium	A03A
+flubendazole	P02C
+lemborexant	N05C
+valrubicin	L01D
+nomegestrol	G03A
+estradiol	G03A
+leuprorelin	L02A
+ioxaglic acid	V08A
+methylscopolamine	A03C
+psycholeptics	A03C
+phenprobamate excl. psycholeptics	M03B
+insulin (human)	A10A
+sulfadimethoxine	J01E
+edoxaban	B01A
+benzydamine	M01A
+metirosine	C02K
+gamolenic acid	D11A
+hydroquinone	D11A
+glimepiride	A10B
+tuaminoheptane	R01A
+adrenalone	B02B
+niraparib	L01X
+iron B12	B03A
+folic acid	B03A
+chlorquinaldol	P01A
+nitazoxanide	P01A
+prenylamine	C01D
+metronidazole	G01A
+levocarnitine	A16A
+trapidil	C01D
+ispaghula	A06A
+nicotinyl alcohol	C04A
+deferasirox	V03A
+sodium glycerophosphate	B05X
+nitrofurantoin	J01X
+andexanet alfa	V03A
+macitentan	C02K
+colecalciferol	A11C
+phenylephrine	R01B
+bicalutamide	L02B
+sulfamerazine	J01E
+oxabolone cipionate	A14A
+rocuronium bromide	M03A
+voglibose	A10B
+unoprostone	S01E
+spiramycin	J01F
+bithionol	D10A
+migalastat	A16A
+isoconazole	G01A
+nisoldipine	C08C
+ferrous ascorbate	B03A
+troleandomycin	J01F
+meticrane	C03B
+luseogliflozin	A10B
+arsthinol	P01A
+acebutolol	C07A
+hydroxyprogesterone	G03D
+policresulen	D08A
+methionine (11C)	V09I
+zomepirac	M01A
+voclosporin	L04A
+didecyldimethylammonium chloride	D08A
+fingolimod	L04A
+eltrombopag	B02B
+ibopamine	S01F
+buformin	A10B
+ergotamine excl. psycholeptics	N02C
+captopril	C09A
+aniracetam	N06B
+digitoxin	C01A
+fludrocortisone	H02A
+bismuth subcitrate	A02B
+picodralazine	C02L
+diuretics with psycholeptics	C02L
+bazedoxifene	G03X
+technetium (99mTc) phytate	V09D
+vonoprazan	A02B
+metronidazole	A02B
+cefsulodin	J01D
+phenol	R02A
+attapulgite	A07B
+methylscopolamine	A03B
+sodium chloride	A12C
+papaverine	G04B
+baloxavir marboxil	J05A
+tolrestat	A10X
+atenolol	C07B
+thiazides	C07B
+cefepime	J01D
+viloxazine	N06A
+tadalafil	G04B
+paroxetine	N06A
+glycopyrronium bromide	R03B
+olopatadine	S01G
+montelukast	R03D
+spectinomycin	J01X
+ixekizumab	L04A
+thymopentin	L03A
+thiopropazate	N05A
+tetracycline	A01A
+ethanol	D08A
+cypermethrin	P03B
+irbesartan	C09D
+amlodipine	C09D
+perindopril	C09B
+amlodipine	C09B
+thiazinam	R06A
+methallenestril	G03C
+sodium phosphate	V03A
+tisagenlecleucel	L01X
+phenprobamate with psycholeptics	M03B
+bopindolol	C07A
+satralizumab	L04A
+conestat alfa	B06A
+entinostat	L01X
+polythiazide	C03A
+icotinib	L01E
+Enema combinations	A06A
+cyclothiazide	C03A
+potassium	C03A
+ibandronic acid	M05B
+colecalciferol	M05B
+pethidine with psycholeptics	N02A
+ketorolac	M01A
+haemophilus influenzae B with meningococcus C	J07A
+rasburicase	V03A
+fluocinonide	D07A
+fusidic acid	J01X
+pipobroman	L01A
+proguanil	P01B
+alipogene tiparvovec	C10A
+dexlansoprazole	A02B
+phenibut	N06B
+praziquantel	P02B
+tazobactam	J01C
+golimumab	L04A
+streptokinase	B01A
+naproxen	G02C
+prilocaine	N01B
+ampicillin	J01C
+beta-lactamase inhibitor	J01C
+medroxyprogesterone	G03A
+triaziquone	L01A
+cridanimod	L03A
+formoterol	R03A
+mometasone	R03A
+blood plasma	B05A
+interferon alfa-n1	L03A
+pipenzolate	A03A
+dorzolamide	S01E
+lorazepam	N05B
+physostigmine	S01E
+rauwolfia alkaloids root	C02A
+reteplase	B01A
+glimepiride	A10B
+rosiglitazone	A10B
+contact laxatives in combination	A06A
+bopindolol	C07C
+other diuretics	C07C
+technetium (99mTc) lidofenin	V09D
+Magnesium antacid compound combinations	A02A
+cetylpyridinium	D09A
+peginterferon alfa-2a	L03A
+naproxen	M01A
+opium	A07D
+diiodohydroxyquinoline	G01A
+olsalazine	A07E
+difluprednate	D07A
+biapenem	J01D
+budesonide	R01A
+technetium (99mTc) medronic acid	V09B
+vorinostat	L01X
+methylergometrine	G02A
+streptomycin	J01G
+cisapride	A03F
+diltiazem	C05A
+grass pollen	V01A
+lamotrigine	N03A
+pramlintide	A10B
+protein C	B01A
+busulfan	L01A
+bemegride	R07A
+sucralfate	A02B
+propranolol	C07B
+thiazides	C07B
+diethylstilbestrol	L02A
+ciprofibrate	C10A
+rabeprazole	A02B
+clarithromycin	A02B
+copper oleinate	P03A
+combinations of electrolytes	B05X
+metformin	A10B
+dapagliflozin	A10B
+oxybutynin	G04B
+collagenase clostridium histolyticum	M09A
+chlormadinone	G03A
+ethinylestradiol	G03A
+visnadine	C04A
+artesunate	P01B
+amodiaquine	P01B
+trandolapril	C09B
+verapamil	C09B
+pantoprazole	A02B
+barium sulfate with suspending agents	V08B
+upadacitinib	L04A
+cinitapride	A03F
+furazolidone	G01A
+histapyrrodine	R06A
+ceftibuten	J01D
+cortivazol	H02A
+Beta-lactamase sensitive penicillin combinations	J01C
+sodium citrate	B05C
+sodium tetradecyl sulfate	C05B
+lanthanum carbonate	V03A
+fluocortin	D07A
+bioallethrin	P03A
+lofepramine	N06A
+atidarsagene autotemcel	A16A
+calcium pangamate	A12A
+obidoxime	V03A
+insulin (human)	A10A
+carbenicillin	J01C
+gemigliptin	A10B
+nicergoline	C04A
+telmisartan	C09D
+diuretics	C09D
+pilocarpine	S01E
+cholera with typhoid vaccine cell	J07A
+tiludronic acid	M05B
+secukinumab	L04A
+mometasone	R03B
+pyridostigmine	N07A
+sulfur hexafluoride microspheres	V08D
+quinapril	C09B
+diuretics	C09B
+niflumic acid	M02A
+lynestrenol	G03A
+ethinylestradiol	G03A
+technetium (99mTc) galtifenin	V09D
+muromonab-CD3	L04A
+triamcinolone	C05A
+mupirocin	D06A
+primaquine	P01B
+pentanedioic acid imidazolyl ethanamide	J05A
+lanatoside C	C01A
+cyamemazine	N05A
+faropenem	J01D
+triprolidine	R06A
+albumin	B05A
+ethacridine lactate	D08A
+calcium levofolinate	V03A
+trimethoprim	J01E
+quinagolide	G02C
+ormeloxifene	G03X
+filgrastim	L03A
+picotamide	B01A
+thonzylamine	R01A
+cefprozil	J01D
+etirinotecan pegol	L01C
+magnesium lactate	A12C
+meningococcus C polysaccharides antigen conjugated	J07A
+inositol nicotinate	C04A
+oxyfedrine	C01D
+enzalutamide	L02B
+midecamycin	J01F
+abetimus	L04A
+tioconazole	G01A
+lactulose	A06A
+cobalt (58Co) cyanocobalamine	V09X
+trolnitrate	C01D
+riociguat	C02K
+calcifediol	A11C
+chlortalidone	C03B
+rosiglitazone	A10B
+metformin	A10B
+lobeglitazone	A10B
+phenol	D08A
+cilostazol	B01A
+mecasermin rinfabate	H01A
+probenecid	M04A
+mesterolone	G03B
+prajmaline	C01B
+guanoclor	C02C
+iodoform	D09A
+tioguanine	L01B
+laronidase	A16A
+diclofenac	M01A
+fusafungine	R02A
+ferrous iodine	B03A
+belatacept	L04A
+carbamide	B05B
+tetryzoline	R01A
+enalapril	C09A
+insulin (beef)	A10A
+prednisolone	A07E
+valsartan	C09C
+alitretinoin	L01X
+cibenzoline	C01B
+chlormadinone	G03A
+ethinylestradiol	G03A
+goserelin	L02A
+other preparations	C05A
+disopyramide	C01B
+electrolytes in combination with other drugs	B05B
+bitolterol	R03A
+dapoxetine	G04B
+fenbendazole	P02C
+rucaparib	L01X
+iotroxic acid	V08A
+iron	B03A
+folic acid	B03A
+acipimox	C10A
+otologic analgesic	S02D
+anesthetic combinations	S02D
+pegfilgrastim	L03A
+metoprolol	C07C
+other diuretics	C07C
+helium	V03A
+sulfalene	J01E
+Hepatitis vaccine combinations	J07B
+vilanterol bromide	R03A
+fluticasone furoate	R03A
+thrombin	B02B
+promegestone	G03D
+ibacitabine	D06B
+hydroxocobalamin	V03A
+clofenotane	P03A
+magnesium sulfate	V04C
+clotrimazole	G01A
+norethisterone	G03F
+estrogen	G03F
+betrixaban	B01A
+atracurium	M03A
+mupirocin	R01A
+lopinavir	J05A
+ritonavir	J05A
+vedolizumab	L04A
+thiamphenicol	J01B
+dexrazoxane	V03A
+sertraline	N06A
+epanolol	C07A
+nadolol	C07A
+trichlormethiazide	C03A
+tetracosactide	H01A
+nifuratel	G01A
+losartan	C09D
+amlodipine	C09D
+cobamamide	B03B
+benzoxonium chloride	A01A
+risedronic acid	M05B
+colecalciferol	M05B
+chlorothiazide	C03A
+potassium	C03A
+emapalumab	L04A
+etanercept	L04A
+tiratricol	H03A
+glyceryl trinitrate	C05A
+dequalinium	G01A
+dipyrocetyl	N02B
+pegunigalsidase alfa	A16A
+sulfamethizole	D06B
+tazemetostat	L01X
+norethisterone	G03A
+carisoprodol with psycholeptics	M03B
+salbutamol	R03A
+sodium cromoglicate	R03A
+retinol (vit A)	A11C
+temozolomide	L01A
+cycloguanil embonate	P01B
+palifermin	V03A
+budesonide	D07A
+"haemophilus influenza B with meningococcus C,Y"	J07A
+ramipril	C09B
+felodipine	C09B
+mequitazine	R06A
+omeprazole	A02B
+efaproxiral	L01X
+conivaptan	C03X
+stem cells from umbilical cord blood	B05A
+plastic IUD with copper	G02B
+lansoprazole	A02B
+levofloxacin	A02B
+moexipril	C09A
+carteolol	S01E
+carboquone	L01A
+2-(4-chlorphenoxy)-ethanol	D01A
+aceclofenac	M01A
+benzydamine	G02C
+interferon alfa natural	L03A
+alteplase	B01A
+sodium chloride	B05C
+tyrothricin	D06A
+feprazone	M02A
+urapidil	C02C
+brinzolamide	S01E
+kebuzone	M01A
+moxonidine	C02L
+diuretics	C02L
+isoxsuprine	C04A
+metformin	A10B
+pioglitazone	A10B
+lasofoxifene	G03X
+omeprazole	A02B
+rifabutin	A02B
+mannitol	B05C
+nedocromil	S01G
+strontium ranelate	M05B
+colecalciferol	M05B
+deserpidine	C02A
+oxyquinoline	R02A
+proglumide	A02B
+hexamidine	D08A
+etelcalcetide	H05B
+acebutolol	C07B
+thiazides	C07B
+fluocortolone	D07C
+antibiotics	D07C
+cefpirome	J01D
+sildenafil	G04B
+ceftriaxone	J01D
+calcium phosphate	A12A
+desoxycortone	H02A
+pegademase	L03A
+ifenprodil	C04A
+sarilumab	L04A
+estrone	G03C
+insulin (pork)	A10A
+amikacin	J01G
+methylthioninium chloride	V03A
+methenamine	J01X
+benzocaine	C05A
+ofloxacin	J01R
+ornidazole	J01R
+hexetidine	G01A
+cyclophosphamide	L01A
+fluorouracil	L01B
+chlorbenzoxamine	A03A
+amoxapine	N06A
+fazadinium bromide	M03A
+decitabine	L01B
+cefadroxil	J01D
+ferric hydroxide	B03A
+mexiletine	C01B
+danazol	G03X
+methoxy polyethylene glycol-epoetin beta	B03X
+ornipressin	H01B
+iopanoic acid	V08A
+Ginkgo folium	N06D
+pegteograstim	L03A
+triflusal	B01A
+hexoprenaline	R03A
+pargyline	C02K
+insulin (human)	A10A
+laquinimod	N07X
+troxipide	A02B
+sulfamethoxazole	J01E
+trimethoprim	J01E
+megestrol	G03A
+ethinylestradiol	G03A
+dexketoprofen	M01A
+artesunate	P01B
+piribedil	N04B
+coagulation factor VII	B02B
+benzydamine	A01A
+chiniofon	P01A
+oxaliplatin	L01X
+tetryzoline	S01G
+dexketoprofen	M02A
+chlorhexidine	S02A
+rescinnamine	C02L
+diuretics	C02L
+mannitol	B05B
+pentosan polysulfate sodium	C05B
+ticarcillin	J01C
+procarbazine	L01X
+rauwolfia alkaloids root	C02L
+diuretics	C02L
+aceclidine	S01E
+lesinurad	M04A
+metolazone	C03B
+xantinol nicotinate	C04A
+lenacapavir	J05A
+iodine ioflupane (123I)	V09A
+alanyl glutamine	B05X
+calcitonin (pork natural)	H05B
+barium sulfate without suspending agents	V08B
+styramate	M03B
+paracetamol excl. psycholeptics	N02B
+tioconazole	D01A
+ethacridine lactate	B05C
+methylprednisolone	D07A
+ketotifen	R06A
+bacitracin	J01X
+gliquidone	A10B
+phenytoin	N03A
+dexamethasone	D07A
+timolol	C07D
+other diuretics	C07D
+nitisinone	A16A
+magnesium aspartate	A12C
+diprophylline	R03D
+acetarsol	G01A
+sofosbuvir	J05A
+velpatasvir	J05A
+azidocillin	J01C
+calcium acetate	V03A
+magnesium carbonate	V03A
+quinidine with psycholeptics	C01B
+Short-acting sulfonamide combinations	J01E
+cefdinir	J01D
+metformin	A10B
+dapagliflozin	A10B
+dolutegravir	J05A
+rilpivirine	J05A
+corifollitropin alfa	G03G
+amphotericin B	G01A
+florbetaben (18F)	V09A
+imeglimin	A10B
+tilbroquinol	P01A
+tiliquinol	P01A
+cefuroxime	J01R
+metronidazole	J01R
+streptokinase	B06A
+luliconazole	D01A
+amineptine	N06A
+etamsylate	B02B
+ferrous sodium citrate	B03A
+catridecacog	B02B
+zorubicin	L01D
+insulin glargine	A10A
+lixisenatide	A10A
+ferric maltol	B03A
+metamizole sodium with psycholeptics	N02B
+vilanterol	R03A
+umeclidinium bromide	R03A
+cimetidine	A02B
+telotristat	A16A
+bexarotene	L01X
+technetium (99mTc) nanocolloid	V09E
+absorbable gelatin sponge	B02B
+insulin (pork)	A10A
+hydrocortisone	A07E
+bacitracin	R02A
+mebendazole	P02C
+gestodene	G03A
+ethinylestradiol	G03A
+metronidazole	P01A
+furazolidone	P01A
+cladribine	L01B
+chlorphenoxamine	R06A
+indacaterol	R03A
+norfloxacin	J01R
+metronidazole	J01R
+lisinopril	C09A
+megestrol	G03D
+difetarsone	P01A
+betaxolol	C07A
+ampicillin	S01A
+quinupristin/dalfopristin	J01F
+isotretinoin	D10A
+dicoumarol	B01A
+dienogest	G03D
+collagen	B02B
+magnesium chloride	A12C
+aloxiprin	B01A
+atenolol	C07C
+other diuretics	C07C
+vaginal ring with progestogen	G02B
+estrogen	G02B
+zinc preparations	C05A
+suxamethonium	M03A
+phenylmercuric borate	D08A
+hexamidine	R01A
+pertussis antigen with toxoids	J07A
+fomepizole	V03A
+ergocalciferol	A11C
+mannitol	R05C
+azelastine	R06A
+thonzylamine	D04A
+sulfametomidine	J01E
+elagolix	H01C
+mefenorex	A08A
+hexafluronium	M03A
+apalutamide	L02B
+nedocromil	R01A
+parecoxib	M01A
+ceforanide	J01D
+senega	R05C
+sincalide	V04C
+emicizumab	B02B
+alum	S01X
+propantheline	A03C
+psycholeptics	A03C
+darifenacin	G04B
+acetylsalicylic acid with psycholeptics	N02B
+colfosceril palmitate	R07A
+benziodarone	C01D
+metformin	A10B
+empagliflozin	A10B
+belladonna total alkaloids	A03C
+psycholeptics	A03C
+natalizumab	L04A
+cefalexin	J01D
+phenazopyridine	G04B
+pioglitazone	A10B
+degarelix	L02B
+mefruside	C03B
+ivermectin	P02C
+belotecan	L01C
+mitoguazone	L01X
+sertindole	N05A
+hydrocortisone butyrate	D07B
+antiseptics	D07B
+Other intestinal adsorbent combinations in ATC	A07B
+androstanolone	G03B
+guanazodine	C02C
+meglumine antimonate	P01C
+sulfinpyrazone	M04A
+triclosan	D08A
+iprindole	N06A
+ibuprofen	R02A
+anistreplase	B01A
+diosmin	C05C
+fluocinolone acetonide	S02B
+carbenoxolone	A02B
+flunoxaprofen	G02C
+bethanechol	N07A
+umeclidinium bromide	R03B
+phenacetin with psycholeptics	N02B
+chlorphenesin	D01A
+sulfaisodimidine	J01E
+hexocyclium	A03A
+decamethrin	P03B
+vidarabine	S01A
+glimepiride	A10B
+pioglitazone	A10B
+lactic acid	G01A
+clioquinol	P01A
+trifluoperazine	N05A
+pantoprazole	A02B
+metronidazole	A02B
+technetium (99mTc) millimicrospheres	V09D
+temocapril	C09A
+mebutizide	C03E
+potassium-sparing agents	C03E
+povidone-iodine	R02A
+methoserpidine	C02A
+glyceryl trinitrate	C01D
+policosanol	C10A
+ibutilide	C01B
+tobramycin	J01G
+gonadotropin combinations	G03G
+Combination solutions for parenteral nutrition	B05B
+tosylchloramide sodium	D08A
+cefozopran	J01D
+yohimbine	G04B
+combinations of sulfonamides	G01A
+lodoxamide	S01G
+methylergometrine	G02A
+oxytocin	G02A
+dexamethasone	H02A
+asenapine	N05A
+oxeladin	R05D
+pidotimod	L03A
+amoxicillin	J01C
+beta-lactamase inhibitor	J01C
+triamcinolone	H02A
+cilnidipine	C08C
+insulin lispro	A10A
+fluocinonide	C05A
+mofebutazone	M02A
+megestrol	L02A
+netilmicin	J01G
+potassium permanganate	V03A
+valsartan	C09D
+amlodipine	C09D
+tetrazepam	M03B
+promethazine	R06A
+porfimer sodium	L01X
+sodium cellulose phosphate	V03A
+diethylstilbestrol	G03C
+demecolcine	L01C
+osimertinib	L01E
+alaproclate	N06A
+bendroflumethiazide	C03A
+acemetacin	M01A
+telithromycin	J01F
+epinephrine	R01A
+calcium folinate	V03A
+fluocinolone acetonide	D07A
+digoxin	C01A
+theophylline with psycholeptics	R03D
+alendronic acid	M05B
+colecalciferol	M05B
+sodium sulfate	A12C
+alemtuzumab	L04A
+multivitamins	A11A
+iron	A11A
+oxomemazine	R06A
+sulfanilamide	D06B
+infliximab	L04A
+phenylbutazone	M01A
+sotorasib	L01X
+betacarotene	A11C
+normethadone	R05D
+metampicillin	J01C
+bromopride	A03F
+emetine	P01A
+satraplatin	L01X
+xylometazoline	S01G
+nitrofural	B05C
+tolbutamide	A10B
+sulfadiazine	J01E
+trimethoprim	J01E
+naproxcinod	M01A
+deserpidine	C02L
+diuretics	C02L
+bismuth subnitrate	A02B
+lysine	B05X
+aminoacridine	D08A
+calcitonin (human synthetic)	H05B
+acetylcysteine	V03A
+cefetamet	J01D
+dipivefrine	S01E
+piketoprofen	M02A
+metformin	A10B
+acarbose	A10B
+pentoxifylline	C04A
+leflunomide	L04A
+terconazole	G01A
+yttrium (90Y) ferrihydroxide colloid	V10A
+netakimab	L04A
+acrivastine	R06A
+indium (111In) pentetic acid	V09A
+vildagliptin	A10B
+chlortalidone	C03B
+potassium	C03B
+tropenzilone	A03D
+analgesics	A03D
+clefamide	P01A
+chlorhexidine	D09A
+betamethasone	R01A
+adapalene	D10A
+camostat	B02A
+hydrocortisone	D07A
+tedizolid	J01X
+cholinesterase	V03A
+sucroferric oxyhydroxide	V03A
+febarbamate	M03B
+pertussis cell with toxoids	J07A
+ketoconazole	D01A
+prethcamide	R07A
+clorexolone with psycholeptics	C03B
+ergot alkaloids	G02A
+dalteparin	B01A
+spiramycin	J01R
+metronidazole	J01R
+tetracycline	S01A
+candicidin	G01A
+polyestradiol phosphate	L02A
+povidone-iodine	G01A
+abciximab	B01A
+iodoxamic acid	V08A
+levomepromazine	N05A
+ancestim	L03A
+iproclozide	N06A
+delafloxacin	J01M
+sofosbuvir	J05A
+voxilaprevir	J05A
+timolol	C07B
+thiazides	C07B
+fluticasone furoate	R03B
+carfilzomib	L01X
+technetium (99mTc) microspheres	V09E
+ferrous glycine sulfate	B03A
+insulin (beef)	A10A
+talimogene laherparepvec	L01X
+isoflurane	N01A
+midodrine	C01C
+ixabepilone	L01D
+chlorambucil	L01A
+beclometasone	D07A
+tegafur	L01B
+vecuronium	M03A
+potassium hydrogencarbonate	A12B
+azatadine	R06A
+pheniramine	R06A
+orciprenaline	R03A
+rabeprazole	A02B
+demeclocycline	D06A
+aminocaproic acid	B02A
+pethidine excl. psycholeptics	N02A
+von Willebrand factor	B02B
+coagulation factor VIII in combination	B02B
+iopydol	V08A
+troglitazone	A10B
+clopamide	C03B
+isoetarine	R03A
+moxidectin	P02C
+chlorotrianisene	G03C
+vincristine	L01C
+permethrin	P03A
+trospium	A03D
+analgesics	A03D
+artemotil	P01B
+guanethidine	C02L
+diuretics	C02L
+rotigotine	N04B
+thiomersal	D08A
+temoporfin	L01X
+abatacept	L04A
+insulin (pork)	A10A
+sodium picosulfate	A06A
+homatropine	S01F
+lenalidomide	L04A
+combinations of levothyroxine	H03A
+liothyronine	H03A
+nitrogen	V03A
+peruvoside	C01A
+benzathine phenoxymethylpenicillin	J01C
+alcuronium	M03A
+buclizine	R06A
+plastic IUD	G02B
+technetium (99mTc) ethylenedicysteine	V09C
+bilastine	R06A
+anastrozole	L02B
+tioclomarol	B01A
+iodocholesterol (131I)	V09X
+ferrous sulfate	B03A
+fluocinolone acetonide	S01C
+antiinfectives	S01C
+brolucizumab	S01L
+empagliflozin	A10B
+dulaglutide	A10B
+azanidazole	G01A
+oxprenolol	C07A
+sulfamoxole	J01E
+pindolol	C07C
+other diuretics	C07C
+etynodiol	G03F
+estrogen	G03F
+oxidized cellulose	B02B
+cetirizine	R06A
+omeprazole	A02B
+metronidazole	A02B
+podophyllotoxin	D06B
+sodium lauryl sulfoacetate. combinations	A06A
+cefixime	J01R
+ornidazole	J01R
+mefloquine	P01B
+lacidipine	C08C
+sulfafurazole	J01E
+atorvastatin	C10B
+omega-3 fatty acids	C10B
+chlormezanone with psycholeptics	M03B
+levonorgestrel	G03A
+cetrimonium	D08A
+indacaterol	R03A
+glycopyrronium bromide	R03A
+meclofenamic acid	M01A
+cefroxadine	J01D
+ivosidenib	L01X
+hydroxyzine	N05B
+flurithromycin	J01F
+tramazoline	R01A
+vaginal ring with progestogen	G02B
+lepirudin	B01A
+levamisole	P02C
+cabazitaxel	L01C
+ticagrelor	B01A
+bevantolol	C07A
+ivermectin	D11A
+etohexadiol	P03B
+tesamorelin	H01A
+prednisolone	H02A
+vericiguat	C01D
+velaglucerase alfa	A16A
+nalorphine	V03A
+oxybuprocaine	S01H
+semustine	L01A
+benzethonium chloride	D08A
+hydrocortisone	D07B
+antiseptics	D07B
+alclofenac	M01A
+mangafodipir	V08C
+bisacodyl	A06A
+perindopril	C09B
+bisoprolol	C09B
+etofenamate	M02A
+methallenestril	G03C
+tisopurine	M04A
+irbesartan	C09C
+suloctidil	C04A
+fluanisone	N05A
+methyltestosterone	G03B
+articaine	N01B
+formoterol bromide	R03A
+beclometasone	R03A
+hydrochlorothiazide	C03A
+potassium	C03A
+carumonam	J01D
+pemetrexed	L01B
+hydrocortisone	C05A
+maribavir	J05A
+flutrimazole	G01A
+pentosan polysulfate sodium	G04B
+vosoritide	M05B
+interferon beta natural	L03A
+plastic IUD with progestogen	G02B
+gas-gangrene sera	J06A
+bufexamac	M01A
+fluocortolone	H02A
+duvelisib	L01E
+buphenine	C04A
+clofezone	M02A
+azithromycin	J01F
+liquid paraffin	A06A
+benidipine	C08C
+medrysone	S01B
+butoconazole	G01A
+zimeldine	N06A
+Aluminium antacid compound combinations	A02A
+isopropanol	D08A
+fluvoxamine	N06A
+palonosetron	A04A
+polihexanide	D08A
+niclosamide	P02D
+hydroflumethiazide	C03A
+rociletinib	L01E
+methotrexate	L01B
+olmesartan medoxomil	C09D
+amlodipine	C09D
+Platelet aggregation inhibitor combinations excl. heparin	B01A
+cyclobenzaprine	M03B
+methoxyflurane	N02B
+theobromine	C03B
+salicylamide	N02B
+solithromycin	J01F
+begelomab	L04A
+calcifediol	H05B
+trazodone	N06A
+alendronic acid	M05B
+alfacalcidol	M05B
+oxitropium bromide	R03B
+thiethylperazine	R06A
+oxyphenonium	A03A
+fluocortolone	D07A
+phenazone excl. psycholeptics	N02B
+daclizumab	L04A
+fimasartan	C09C
+mepartricin	G04C
+bumetanide	C03C
+dichlorophen	P02D
+sulfamerazine	D06B
+timolol	S01E
+strontium ranelate	M05B
+diodone	V08A
+methylrosaniline	D01A
+elosulfase alfa	A16A
+fructose	V06D
+sparfloxacin	J01M
+valsartan	C09D
+nebivolol	C09D
+liraglutide	A10B
+perindopril	C09B
+amlodipine	C09B
+aliskiren	C09X
+amlodipine	C09X
+troxerutin	C05C
+lenvatinib	L01E
+mofebutazone	M01A
+phenformin	A10B
+sulfonylureas	A10B
+revefenacin	R03B
+bucetin with psycholeptics	N02B
+s-atenolol	C07A
+drospirenone	G03F
+estrogen	G03F
+polythiazide	C03A
+potassium	C03A
+famciclovir	S01A
+rescinnamine	C02A
+halofantrine	P01B
+dinoprostone	G02A
+diltiazem	C08D
+moxaverine	A03A
+measles with mumps attenuated	J07B
+acetophenazine	N05A
+atropine	S01F
+nordazepam	N05B
+prednisolone	D07B
+antiseptics	D07B
+fluocinolone acetonide	D07C
+antibiotics	D07C
+tetryzoline	R01A
+colextran	C10A
+gadoteric acid	V08C
+dacarbazine	L01A
+thyroid gland preparations	H03A
+candesartan	C09D
+amlodipine	C09D
+lynestrenol	G03A
+reproterol	R03A
+sodium cromoglicate	R03A
+codeine	N02A
+ibuprofen	N02A
+etilevodopa	N04B
+decarboxylase inhibitor	N04B
+eflornithine	P01C
+ergometrine	G02A
+phenacetin excl. psycholeptics	N02B
+lorcainide	C01B
+nifurtimox	P01C
+follitropin alfa	G03G
+mefruside	C03B
+potassium	C03B
+saxagliptin	A10B
+demoxytocin	H01B
+nalmefene	N07B
+yttrium (90Y) silicate colloid	V10A
+cefoxitin	J01D
+tilidine	N02A
+naloxone	N02A
+mebutizide	C03A
+levofloxacin	J01R
+ornidazole	J01R
+ciclopirox	G01A
+ethinylestradiol	L02A
+chlortetracycline	A01A
+betamethasone	R03B
+fentanyl	N01A
+hexoprenaline	R03C
+hydrocortisone aceponate	D07A
+carmofur	L01B
+alfuzosin	G04C
+ixazomib	L01X
+fluprednidene	D07X
+asciminib	L01E
+mebutamate	N05B
+phenindamine	R06A
+lidocaine	R02A
+piperazine	P02C
+hydralazine	C02L
+diuretics	C02L
+promazine	N05A
+octopamine	C01C
+palovarotene	M09A
+benzocaine	D04A
+pirisudanol	N06B
+tripelennamine	R06A
+salbutamol	R03A
+potassium gluconate	A12B
+hexamidine	S03A
+dexbrompheniramine	R06A
+fluorometholone	D07A
+ibuproxam	M01A
+diamorphine	N07B
+ropinirole	N04B
+amitriptyline	N06A
+ethinylestradiol	G03C
+norethisterone	G03D
+coagulation factor IX	B02B
+X in combination	B02B
+phenylmercuric nitrate	D09A
+thyrotropin	V04C
+chlortetracycline	D06A
+pioglitazone	A10B
+sitagliptin	A10B
+procaine	N01B
+rifamycin	D06A
+indometacin	M02A
+enoximone	C01C
+repaglinide	A10B
+beclometasone	R01A
+methoserpidine	C02L
+diuretics	C02L
+alginic acid	A02B
+nitrofural	D08A
+propylthiouracil	H03B
+cinchocaine	C05A
+biperiden	N04A
+alizapride	A03F
+pirbuterol	R03A
+vindesine	L01C
+tiagabine	N03A
+crilanomer	D03A
+phenazone with psycholeptics	N02B
+sulfur compounds	D11A
+econazole	D01A
+avanafil	G04B
+doxapram	R07A
+sermorelin	V04C
+dimetacrine	N06A
+euflavine	D08A
+etofylline nicotinate	C04A
+sutimlimab	L04A
+gallopamil	C08D
+polyplatillen	L01X
+galactose	V04C
+dapivirine	G01A
+sulfamethizole	B05C
+glibornuride	A10B
+oxymetazoline	S01G
+alcaftadine	S01G
+scopolamine	A04A
+vinbarbital	N05C
+lefamulin	J01X
+sofosbuvir	J05A
+ledipasvir	J05A
+acetylsalicylic acid with proton pump inhibitors	B01A
+peginterferon beta-1a	L03A
+bimekizumab	L04A
+sodium iothalamate (125I)	V09C
+cefpiramide	J01D
+ambroxol	R05C
+etoglucid	L01A
+dexetimide	N04A
+ceftazidime	J01D
+beta-lactamase inhibitor	J01D
+tocainide	C01B
+digitalis antitoxin	V03A
+tixocortol	R01A
+gestrinone	G03X
+phenylephrine	R01A
+cetylpyridinium	D08A
+isometheptene	A03A
+nomegestrol	G03D
+inosine	D06B
+ferric (59Fe) citrate	V09X
+semaglutide	A10B
+pindolol	C07A
+diethyltoluamide	P03B
+bifonazole	D01A
+rosuvastatin	C10B
+fenofibrate	C10B
+bepridil	C08E
+rivaroxaban	B01A
+somapacitan	H01A
+cangrelor	B01A
+moperone	N05A
+ceftezole	J01D
+angiotensin II	C01C
+fencamfamin	N06B
+indometacin	M01A
+famciclovir	J05A
+magnesium pyridoxal 5-phosphate glutamate	C10A
+tiabendazole	P02C
+calcium chloride	G04B
+succinimide	G04B
+gadoversetamide	V08C
+phenylbutazone	M02A
+idarubicin	L01D
+metronidazole	P01A
+diloxanide	P01A
+prednisone	H02A
+oxyphencyclimine	A03C
+psycholeptics	A03C
+sulfatolamide	G01A
+technetium (99mTc) furifosmin	V09G
+lonafarnib	A16A
+remikiren	C09X
+bumadizone	M01A
+formoterol	R03A
+deferoxamine	V03A
+taliglucerase alfa	A16A
+edetates	V03A
+tetracaine	S01H
+streptozocin	L01A
+carbazochrome	B02B
+testosterone	G03B
+Penicillins with extended spectrum combinations	J01C
+dimenhydrinate	R06A
+edrophonium	V04C
+gatifloxacin	S01A
+febuxostat	M04A
+tolonidine	C02A
+tasosartan	C09C
+rubella with mumps attenuated	J07B
+ropivacaine	N01B
+labetalol	C07A
+creosote	R05C
+piroxicam	M02A
+ramipril	C09B
+hydrochlorothiazide	C09B
+dantron	A06A
+olodaterol	R03A
+sertaconazole	G01A
+dinoprost	G02A
+tiopronin	G04B
+zucapsaicin	M02A
+medical air	V03A
+insulin lispro	A10A
+pralatrexate	L01B
+chlorhexidine	R02A
+epinastine	R06A
+technetium (99mTc) pentetic acid	V09C
+fluindione	B01A
+pegvisomant	H01A
+nicardipine	C08C
+tinzaparin	B01A
+pirfenidone	L04A
+letrozole	L02B
+pentagastrin	V04C
+practolol	C07A
+ciprofloxacin	J01R
+metronidazole	J01R
+vapreotide	H01C
+somatropin	H01A
+abicipar pegol	S01L
+ertugliflozin	A10B
+zinc gluconate	A12C
+tislelizumab	L01F
+diazoxide	V03A
+tubocurarine	M03A
+cymarin	C01A
+clindamycin	G01A
+ustekinumab	L04A
+mepartricin	D01A
+dihydralazine	C02L
+diuretics	C02L
+volanesorsen	C10A
+mifamurtide	L03A
+hemin	B06A
+etofibrate	C10A
+malathion	P03A
+electrolytes in combination with other drugs	B05X
+benzocaine	R02A
+dasabuvir	J05A
+gadofosveset	V08C
+protamine	V03A
+eprosartan	C09D
+diuretics	C09D
+chloropyramine	R06A
+captopril	C09B
+diuretics	C09B
+naproxen	M02A
+avalglucosidase alfa	A16A
+teniposide	L01C
+filgotinib	L04A
+sitagliptin	A10B
+ponatinib	L01E
+clopamide	C03B
+potassium	C03B
+dibenzepin	N06A
+minocycline	J01A
+technetium (99mTc) tin colloid	V09D
+evogliptin	A10B
+indoramin	C02C
+magnesium citrate	B05C
+acetylsalicylic acid excl. psycholeptics	N02B
+neomycin	D06A
+fluperolone	D07A
+phenol	C05B
+carbimazole	H03B
+kallidinogenase	C04A
+pirprofen	M01A
+eteplirsen	M09A
+ibandronic acid	M05B
+siltuximab	L04A
+trimethyldiphenylpropylamine	A03A
+methyldopa (levorotatory)	C02L
+diuretics	C02L
+atenolol	C07D
+other diuretics	C07D
+trichloroethylene	N01A
+methylprednisolone aceponate	D07A
+antilymphocyte immunoglobulin (horse)	L04A
+dexpanthenol	A11H
+meclofenamic acid	M02A
+acetyldigitoxin	C01A
+fenpiverinium	A03A
+penbutolol	C07A
+metergoline	G02C
+clopidogrel	B01A
+tedisamil	C01B
+ospemifene	G03X
+chlorproethazine	N05A
+cefiderocol	J01D
+pyrrobutamine	R06A
+emedastine	S01G
+fosfomycin	J01X
+distigmine	N07A
+vaccinia immunoglobulin	J06B
+lofexidine	N07B
+veralipride	N05A
+glymidine	A10B
+ciclesonide	R03B
+fusidic acid	D09A
+tezepelumab	R03D
+technetium (99mTc) pyrophosphate	V09B
+clioquinol	G01A
+medroxyprogesterone	L02A
+pargyline	C02L
+diuretics	C02L
+arbekacin	J01G
+etamiphylline	R03D
+balsalazide	A07E
+guselkumab	L04A
+natamycin	A01A
+atorvastatin	C10A
+desoximetasone	D07X
+clodantoin	G01A
+hydroxycarbamide	L01X
+domperidone	A03F
+treosulfan	L01A
+streptoduocin	J01G
+emtricitabine	J05A
+dimazole	D01A
+hyaluronic acid	M09A
+aluminium chlorohydrate	D09A
+ethyl esters of iodised fatty acids	V08A
+fluphenazine	N05A
+albinterferon alfa-2b	L03A
+thioproperazine	N05A
+indanazoline	R01A
+measles with mumps	J07B
+rubella attenuated	J07B
+bromelains	M09A
+imipramine	N06A
+terodiline	G04B
+benfluorex	A10B
+house dust mites	V01A
+romidepsin	L01X
+dobutamine	C01C
+metformin	A10B
+canagliflozin	A10B
+Intermediate-acting sulfonamide combinations	J01E
+protirelin	V04C
+oxytetracycline	D06A
+lynestrenol	G03D
+drotrecogin alfa (activated)	B01A
+povidone-iodine	D08A
+terbutaline	R03A
+methapyrilene	R06A
+fluticasone	D07A
+pitofenone	A03D
+analgesics	A03D
+irbesartan	C09D
+diuretics	C09D
+sulconazole	D01A
+ampicillin	J01C
+lovastatin	C10A
+microparticles of galactose	V08D
+gentamicin	S03A
+chlorphenoxamine	D04A
+dexibuprofen	M01A
+viltolarsen	M09A
+calcium pantothenate	D03A
+quinisocaine	D04A
+fluprednidene	D07A
+sultopride	N05A
+ergotamine with psycholeptics	N02C
+bucladesine	C01C
+melphalan	L01A
+prednisolone	R01A
+nifenazone	M02A
+desflurane	N01A
+vinorelbine	L01C
+sulfobromophthalein	V04C
+corticorelin	V04C
+metixene	N04A
+cytomegalovirus immunoglobulin	J06B
+cetirizine	S01G
+benzylthiouracil	H03B
+aprindine	C01B
+fluticasone	R01A
+remifentanil	N01A
+flumazenil	V03A
+ketanserin	C02K
+delapril	C09B
+diuretics	C09B
+phenglutarimide	N04A
+clioquinol	S02A
+mifepristone	G03X
+papaverine	G04B
+amsacrine	L01X
+phenprobamate	M03B
+deucravacitinib	L04A
+nikethamide	R07A
+udenafil	G04B
+sobrerol	R05C
+pimozide	N05A
+ritodrine	G02C
+tyrothricin	S01A
+prenalterol	C01C
+miltefosine	P01C
+encainide	C01B
+phenylephrine	R01B
+lonidamine	L01X
+oxprenolol	C07B
+thiazides	C07B
+emepronium	G04B
+dasabuvir	J05A
+ritonavir	J05A
+iodine (124I) 2beta-carbomethoxy-3beta-(4 iodophenyl)-tropane	V09A
+oxytocin	H01B
+Insulins	A10A
+analogs for injection-acting combined with fast-acting- combinations	A10A
+pethidine	N02A
+spesolimab	L04A
+trometamol	B05X
+clomipramine	N06A
+phenobarbital	N03A
+buprenorphine	N07B
+fluticasone	R03B
+isoetarine	R03C
+imatinib	L01E
+heptaminol	C01D
+elcatonin	H05B
+esflurbiprofen	M02A
+sodium levofolinate	V03A
+amcinonide	D07A
+picodralazine	C02L
+diuretics	C02L
+clodronic acid	M05B
+acepromazine	N05A
+brompheniramine	R06A
+fenoldopam	C01C
+elapegademase	L03A
+tamsulosin	G04C
+ferric sodium citrate	B03A
+prednisolone	D07A
+cocaine	R02A
+clobetasone	D07A
+pyrimethamine	P01B
+formoterol	R03A
+aclidinium bromide	R03A
+tetragalacturonic acid hydroxymethylester	B02B
+xylometazoline	R01A
+bithionol	P02B
+moxonidine	C02A
+ulipristal	G03A
+propenidazole	G01A
+technetium (99mTc) stannous agent labelled cells	V09G
+xipamide	C03B
+clenbuterol	R03A
+collagen	G04B
+ciclosporin	S01X
+guaifenesin	R05C
+isoniazid	J04A
+pyridoxine	J04A
+amino acids	B05B
+carbon monoxide	V04C
+arsenic trioxide	L01X
+lynestrenol	G03F
+estrogen	G03F
+nicofuranose	C10A
+ferristene	V08C
+technetium (99mTc) succimer	V09C
+galantamine	N06D
+Calcium antacid compound combinations	A02A
+nandrolone	A14A
+doxylamine	R06A
+mizolastine	R06A
+carvedilol	C07A
+lorazepam	N05B
+cetylpyridinium	R02A
+vorozole	L02B
+methylthioninium chloride	V04C
+alectinib	L01E
+benznidazole	P01C
+sulodexide	B01A
+exenatide	A10B
+ambrisentan	C02K
+phenolsulfonphthalein	V04C
+nystatin	D01A
+anecortave	S01L
+pyrrolnitrin	D01A
+neomycin	A07A
+cyclizine	R06A
+rifamycin	S01A
+guanethidine	C02C
+lumiracoxib	M01A
+ciprofloxacin	J01R
+tinidazole	J01R
+pentamycin	G01A
+nifedipine	C08C
+simvastatin	C10B
+fenofibrate	C10B
+codeine	N02A
+acetylsalicylic acid	N02A
+iomeprol	V08A
+cetrimide	D08A
+technetium (99mTc) tilmanocept	V09I
+oxymetazoline	R01A
+somatrem	H01A
+epinephrine	C01C
+ipragliflozin	A10B
+zinc protein complex	A12C
+epinephrine	R03A
+bevacizumab	S01L
+nifenazone	N02B
+metoprolol	C07A
+gestonorone	G03D
+midazolam	N05C
+tamoxifen	L02B
+pasireotide	H01C
+dimethylphthalate	P03B
+clindamycin	J01F
+modafinil	N06B
+penciclovir	D06B
+latanoprost	S01E
+netarsudil	S01E
+disulfiram	P03A
+auranofin	M01C
+ciclosporin	L04A
+rifabutin	J04A
+sulindac	M01A
+bumetanide	C03C
+potassium	C03C
+gadopentetic acid	V08C
+demegestone	G03D
+doxorubicin	L01D
+meloxicam	M01A
+batroxobin	B02B
+proxymetacaine	S01H
+albendazole	P02C
+ferric ammonium citrate	V08C
+coagulation factor X	B02B
+mitoxantrone	L01D
+tolpropamine	D04A
+pipamperone	N05A
+acetyldigoxin	C01A
+thenalidine	R06A
+dihydroergocristine	C04A
+ripretinib	L01E
+chlorquinaldol	R02A
+cromoglicic acid	S01G
+technetium (99mTc) sulfur colloid	V09D
+amiodarone	C01B
+nitrofural	D09A
+cetrimonium	R02A
+sulfacetamide	S01A
+dronedarone	C01B
+levomethadone	N07B
+levosulpiride	N05A
+zinc bandage without supplements	D09A
+fludiazepam	N05B
+tiotropium bromide	R03B
+guar gum	A10B
+lasmiditan	N02C
+tacalcitol	D05A
+azelastine	S01G
+Other anti-dementia drug combinations in ATC	N06D
+terguride	G02C
+pyrantel	P02C
+perphenazine	N05A
+fluorometholone	D07C
+antibiotics	D07C
+torasemide	C03C
+finasteride	G04C
+gemfibrozil	C10A
+olmesartan medoxomil	C09D
+diuretics	C09D
+isoprenaline	C01C
+metformin	A10B
+linagliptin	A10B
+clindamycin	D10A
+Agni casti fructus	G02C
+levonorgestrel	G03A
+ethinylestradiol	G03A
+tolnaftate	D01A
+dermatan sulfate	B01A
+oxedrine	C01C
+secretin	V04C
+molgramostim	L03A
+immunocyanin	L03A
+eperisone	M03B
+methdilazine	R06A
+oxycodone	N02A
+acetylsalicylic acid	N02A
+cladribine	L04A
+dienestrol	G03C
+olmutinib	L01E
+perflubutane microspheres	V08D
+inosine	G01A
+mold fungus	V01A
+yeast fungus allergenic extracts	V01A
+silver nitrate	D08A
+brodimoprim	J01E
+panobinostat	L01X
+sodium borate	S01A
+mometasone	D07X
+cerivastatin	C10A
+deflazacort	H02A
+eritrityl tetranitrate	C01D
+diflucortolone	D07A
+imipramine oxide	N06A
+venlafaxine	N06A
+lactic acid producing organisms	A07F
+ethchlorvynol	N05C
+plerixafor	L03A
+ketoprofen	M01A
+etidronic acid	M05B
+betaxolol	S01E
+pholcodine	R05D
+cetiedil	C04A
+risedronic acid	M05B
+flunisolide	R03B
+nusinersen	M09A
+tuberculin	V04C
+trimazosin	C02C
+prasterone	G03E
+estrogen	G03E
+rolitetracycline	J01A
+reserpine	C02A
+orphenadrine (chloride)	N04A
+ibuprofen	M02A
+enalapril	C09B
+diuretics	C09B
+metformin	A10B
+sulfonylureas	A10B
+technetium (99mTc) disofenin	V09D
+thiamazole	H03B
+bacitracin	D06A
+iodine/octylphenoxypolyglycolether	D08A
+fampridine	N07X
+fluticasone furoate	R01A
+tribenoside	C05A
+droxicam	M01A
+norgestrel	G03F
+estrogen	G03F
+retinol	R01A
+pipecuronium bromide	M03A
+levocabastine	R01A
+pyrethrum	P03A
+magnesium sulfate	A12C
+oxedrine	S01G
+chromium (51Cr) edetate	V09C
+mepyramine	D04A
+potassium chloride	A12B
+linzagolix	H01C
+fesoterodine	G04B
+tetracaine	D04A
+natural phospholipids	R07A
+miconazole	G01A
+ceruletide	V04C
+ceftriaxone	J01D
+beta-lactamase inhibitor	J01D
+bucillamine	M01C
+sugammadex	V03A
+bosentan	C02K
+dihydrotachysterol	A11C
+mercuric chloride	D08A
+etacrynic acid	C03C
+magnesium hydroxide	G04B
+lusutrombopag	B02B
+ethisterone	G03D
+metformin	A10B
+evogliptin	A10B
+ioglycamic acid	V08A
+lipegfilgrastim	L03A
+opium	N02A
+capsaicin	M02A
+sparteine	C01B
+betanidine	C02C
+etoricoxib	M01A
+cefminox	J01D
+antimony pentasulfide	R05C
+temazepam	N05C
+ziprasidone	N05A
+olopatadine	R01A
+magnesium phosphate	B05X
+fluocortolone	D07B
+antiseptics	D07B
+thiamine (vit B1)	A11D
+alglucerase	A16A
+oleandomycin	J01F
+desmopressin	H01B
+Insulins	A10A
+analogs for injection-acting combinations	A10A
+talazoparib	L01X
+abiraterone	L02B
+diethylcarbamazine	P02C
+bromhexine	R05C
+melitracen	N06A
+aminophenazone with psycholeptics	N02B
+sterculia	A06A
+dihydrocodeine	N02A
+mezlocillin	J01C
+efinaconazole	D01A
+eliglustat	A16A
+medroxyprogesterone	G03F
+estrogen	G03F
+sodium zirconium cyclosilicate	V03A
+coagulation factor VIII	B02B
+hydrocortisone buteprate	D07A
+"meningococcus A,C,Y,W-135 purified polysaccharides antigen conjugated"	J07A
+disulfiram	N07B
+vancomycin	A07A
+linopirdine	N06B
+cromoglicic acid	A07E
+fendiline	C08E
+fludarabine	L01B
+tretoquinol	R03A
+bromazine	R06A
+domiodol	R05C
+moexipril	C09B
+diuretics	C09B
+cobimetinib	L01E
+indobufen	B01A
+glycobiarsol	P01A
+bendazac	S01B
+selenium (75Se) norcholesterol	V09X
+oxaceprol	D11A
+azapropazone	M01A
+medrogestone	G03D
+flunitrazepam	N05C
+atezolizumab	L01F
+alsactide	V04C
+flumetasone	D07B
+antiseptics	D07B
+fexinidazole	P01C
+pegaptanib	S01L
+captodiame	N05B
+dibotermin alfa	M05B
+topotecan	L01C
+brigatinib	L01E
+technetium (99mTc) mertiatide	V09C
+nicotinic acid	C04A
+celecoxib	M01A
+natamycin	D01A
+moxifloxacin	S01A
+erythromycin	J01F
+technetium (99mTc) votumumab	V09I
+idoxuridine	D06B
+propatylnitrate	C01D
+sitaxentan	C02K
+atorvastatin	C10B
+ezetimibe	C10B
+parathyroid gland extract	H05A
+treprostinil	B01A
+mecasermin	H01A
+amezinium metilsulfate	C01C
+cisatracurium	M03A
+dexamfetamine	N06B
+guanoxan	C02C
+tromantadine	J05A
+guaiacolsulfonate	R05C
+nedocromil	R03B
+medroxyprogesterone	G03D
+brotizolam	N05C
+atogepant	N02C
+tolmetin	M01A
+nomegestrol	G03F
+estrogen	G03F
+daunorubicin	L01D
+fenozolone	N06B
+pipradrol	N06B
+octenidine	G01A
+atorvastatin	C10B
+ramipril	C10B
+piroxicam	M01A
+fluconazole	D01A
+hydroxyprogesterone	G03F
+estrogen	G03F
+dihydroergotamine	N02C
+bromperidol	N05A
+phenylephrine	R01A
+various allergen extracts	V01A
+methacholine	V04C
+ephedrine	R03C
+norfloxacin	S01A
+amantadine	N04B
+dimetindene	D04A
+losartan	C09C
+limbal stem cells	S01X
+naftazone	C05C
+fedratinib	L01E
+butanilicaine	N01B
+olodaterol	R03A
+tiotropium bromide	R03A
+quinidine	C01B
+pirarubicin	L01D
+amivantamab	L01F
+difemerine	A03A
+reproterol	R03A
+phenyl salicylate	G04B
+indapamide	C03B
+olaparib	L01X
+aluminium nicotinate	C10A
+apixaban	B01A
+nalfurafine	V03A
+chlorothiazide	C03A
+ambazone	R02A
+patent blue	V04C
+tetryzoline	S01G
+fumagillin	P01A
+oxygen	V03A
+megestrol	G03F
+estrogen	G03F
+ipidacrine	N06D
+paromomycin	A07A
+adinazolam	N05B
+dornase alfa (desoxyribonuclease)	R05C
+deferiprone	V03A
+tolciclate	D01A
+tuaminoheptane	R01A
+betamethasone	D07A
+dexamethasone	D07C
+antibiotics	D07C
+tazarotene	D05A
+tolperisone	M03B
+citalopram	N06A
+phenytoin	N03A
+erythromycin	D10A
+Cimicifugae rhizoma	G02C
+norepinephrine	C01C
+avocado	M01A
+soyabean oil	M01A
+hexamidine	S01A
+policresulen	G01A
+rosuvastatin	C10A
+acetohexamide	A10B
+naftidrofuryl	C04A
+hydrocodone	R05D
+Long-acting sulfonamide combinations	J01E
+metaraminol	C01C
+pancreozymin (cholecystokinin)	V04C
+tasonermin	L03A
+telmisartan	C09D
+amlodipine	C09D
+alprostadil	C01E
+dutasteride	G04C
+gonadorelin	H01C
+fenofibrate	C10A
+risedronic acid	M05B
+calcium	M05B
+armodafinil	N06B
+dacomitinib	L01E
+cholera attenuated	J07A
+staphylococcus immunoglobulin	J06B
+anileridine	N01A
+theobromine	R03D
+oxycodone	N02A
+ibuprofen	N02A
+tolbutamide	V04C
+mitobronitol	L01A
+aminophylline	R03D
+adrenergics	R03D
+chlorquinaldol	D08A
+melarsoprol	P01C
+thiotepa	L01A
+meptazinol	N02A
+norgestimate	G03F
+estrogen	G03F
+milnacipran	N06A
+cloprednol	H02A
+hydroxocobalamin	B03B
+combinations of imidazole derivatives	G01A
+bekanamycin	J01G
+fenoprofen	M01A
+chondrocytes	M09A
+tafamidis	N07X
+bezitramide	N02A
+trabectedin	L01C
+doxazosin	C02C
+Valerianae radix	N05C
+benzatropine	N04A
+fentiazac	M02A
+potassium perchlorate	H03B
+technetium (99mTc) etifenin	V09D
+bromocriptine	G02C
+osilodrostat	H02C
+clozapine	N05A
+raloxifene	G03X
+cytarabine	L01X
+daunorubicin	L01X
+bretylium tosilate	C01B
+formoterol	R03A
+fluticasone	R03A
+sorbitol	B05C
+levocabastine	S01G
+chlorhexidine	D08A
+combinations of rauwolfia alkaloids	C02A
+hexylresorcinol	R02A
+insulins	A10A
+analogs for injection combinations-acting	A10A
+zinc bandage with supplements	D09A
+imidazole salicylate	N02B
+ethyl loflazepate	N05B
+cyclopentolate	S01F
+insulin (human)	A10A
+paricalcitol	H05B
+sulfafenazol	S01A
+valsartan	C09D
+diuretics	C09D
+delapril	C09B
+manidipine	C09B
+itacitinib	L04A
+alprostadil	G04B
+brodalumab	L04A
+brexpiprazole	N05A
+simvastatin	C10A
+perflutren albumin microspheres	V08D
+gefitinib	L01E
+dibunate	R05D
+moclobemide	N06A
+selenium sulfide	D01A
+combinations of penicillins	J01C
+lurasidone	N05A
+anthrax immunoglobulin	J06B
+magnesium chloride	B05X
+diflucortolone	D07B
+antiseptics	D07B
+hydrocortisone	D07X
+ajmaline	C01B
+deanol	N06B
+enasidenib	L01X
+acarbose	A10B
+chlorprothixene	N05A
+sertaconazole	D01A
+butriptyline	N06A
+citric acid	A09A
+framycetin	R01A
+fabomotizole	N05B
+carbocisteine	R05C
+nesiritide	C01D
+hydromorphone	N02A
+lypressin	H01B
+veliparib	L01X
+relugolix	L02B
+calcium carbimide	N07B
+flunoxaprofen	M01A
+meningococcus B vaccine	J07A
+casimersen	M09A
+sodium benzoate	A16A
+nadolol	C07B
+thiazides	C07B
+tirbanibulin	D06B
+acetylcysteine	S01X
+phenylbutazone	M01B
+corticosteroids	M01B
+cabergoline	N04B
+fenoterol	R03A
+medrogestone	G03F
+estrogen	G03F
+blinatumomab	L01F
+tetracycline	D06A
+insulin degludec	A10A
+liraglutide	A10A
+diphenhydramine	R06A
+cisplatin	L01X
+sirolimus	L04A
+idrocilamide	M02A
+trafermin	D03A
+levomilnacipran	N06A
+urate oxidase	M04A
+enfuvirtide	J05A
+sodium apolate	C05B
+Antiinfective irrigating solution combinations	B05C
+glucosamine	M01A
+metahexamide	A10B
+salicylic acid	S01B
+guanoxabenz	C02C
+sodium stibogluconate	P01C
+binimetinib	L01E
+benzydamine	R02A
+benzbromarone	M04A
+vinyl ether	N01A
+famotidine	A02B
+lobeglitazone	A10B
+colchicine	M04A
+technetium (99mTc) etarfolatide	V09I
+barbexaclone	N03A
+ipratropium bromide	R01A
+buphenine	G02C
+ciclesonide	R01A
+heparin	B01A
+local opthalmologic anesthetic combinations	S01H
+mebhydrolin	R06A
+mazindol	A08A
+chloroxylenol	D08A
+pancuronium	M03A
+norgestimate	G03A
+ethinylestradiol	G03A
+thenalidine	D04A
+flutamide	L02B
+fluorometholone	S01C
+antiinfectives	S01C
+azelastine	R01A
+sodium fluoride	A12C
+lornoxicam	M01A
+magnesium gluconate	A12C
+levodropropizine	R05D
+tavaborole	D01A
+emepronium	A03C
+psycholeptics	A03C
+lidocaine	D04A
+ferumoxsil	V08C
+bleomycin	L01D
+tienilic acid	C03C
+ofloxacin	S02A
+metformin	A10B
+ertugliflozin	A10B
+cefpodoxime	J01D
+beta-lactamase inhibitor	J01D
+bioallethrin	P03A
+merbromin	D08A
+flower allergenic extracts	V01A
+penicillins with other antibacterials	J01R
+ephedrine	R01A
+dequalinium	D08A
+frovatriptan	N02C
+cation exchange resins	V04C
+haemophilus influenzae B with toxoids	J07A
+cyanocobalamin	B03B
+brivudine	J05A
+chlortalidone	C03E
+potassium-sparing agents	C03E
+silver sulfadiazine	D06B
+clotiapine	N05A
+ezetimibe	C10A
+nefazodone	N06A
+stramoni preparations	R03B
+letermovir	J05A
+nebivolol	C07A
+niridazole	P02B
+dihydrocodeine	N02A
+other non-opioid analgesics	N02A
+candesartan	C09D
+hydrochlorothiazide	C09D
+fexapotide	G04C
+trandolapril	C09A
+denosumab	M05B
+nintedanib	L01E
+oxyphenbutazone	M01A
+cemiplimab	L01F
+rhenium (186Re) sulfide colloid	V10A
+piretanide	C03C
+trichlormethiazide	C03A
+potassium	C03A
+pilocarpine	N07A
+aliskiren	C09X
+hydrochlorothiazide	C09X
+ramipril	C09B
+bisoprolol	C09B
+mepindolol	C07A
+azathioprine	L04A
+arterolane	P01B
+piperaquine	P01B
+noscapine	R05D
+salmeterol	R03A
+fluticasone	R03A
+benzocaine	N01B
+valsartan	C09D
+lercanidipine	C09D
+clonidine	C02L
+diuretics	C02L
+fludroxycortide	D07C
+antibiotics	D07C
+glucose	B05C
+difenpiramide	M01A
+angiotensinamide	C01C
+bupivacaine	N01B
+pentoxyverine	R05D
+lentinan	L03A
+ubidecarenone	C01E
+aldesleukin	L03A
+rabies serum	J06A
+dimethyltubocurarine	M03A
+ticlatone	D01A
+colesevelam	C10A
+gefarnate with psycholeptics	A02B
+gentamicin	J01G
+nilvadipine	C08C
+vismodegib	L01X
+bupropion	A08A
+naltrexone	A08A
+sitimagene ceradenovec	L01X
+emtricitabine disoproxil	J05A
+rilpivirine	J05A
+phentolamine	C04A
+potassium permanganate	D08A
+pridinol	M03B
+toremifene	L02B
+acetic acid	G01A
+cineole	R05C
+ibudilast	R03D
+fluoxetine	N06A
+chlorcyclizine	R06A
+benzalkonium	R02A
+glucagon	H04A
+mefenamic acid	M01A
+miocamycin	J01F
+clobetasone	S01B
+moxisylyte	C04A
+chlordiazepoxide	N05B
+etidronic acid	M05B
+calcium	M05B
+paclitaxel	L01C
+ataluren	M09A
+tolvaptan	C03X
+lifitegrast	S01X
+"papillomavirus (human types 6, 11, 16, 18, 31, 33, 45, 52, 58)"	J07B
+meprednisone	H02A
+thioridazine	N05A
+metacycline	J01A
+risperidone	N05A
+prochlorperazine	N05A
+tapentadol	N02A
+fenbufen	M01A
+norfloxacin	J01M
+morpholine salicylate	N02B
+aclidinium bromide	R03B
+bamifylline	R03D
+fusidic acid	D06A
+plazomicin	J01G
+xaliproden	N07X
+diclofenac	M02A
+diflucortolone	D07X
+influenza like particles	J07B
+emtricitabine alafenamide	J05A
+rilpivirine	J05A
+gentamicin	D06A
+technetium (99mTc) nanocolloid	V09D
+metipranolol	S01E
+timepidium bromide	A03A
+dydrogesterone	G03F
+estrogen	G03F
+sodium fluoride	A01A
+acriflavinium chloride	R02A
+propamidine	D08A
+ketoconazole	H02C
+diiodotyrosine	H03B
+olanzapine	N05A
+pertuzumab	L01X
+trastuzumab	L01X
+bunaftine	C01B
+chlormezanone	M03B
+cicletanine	C03B
+diethylstilbestrol	G03C
+imlifidase	L04A
+panitumumab	L01F
+methyldopa (racemic)	C02A
+dithranol	D05A
+halazepam	N05B
+mepolizumab	R03D
+proguanil	P01B
+atovaquone	P01B
+cinepazide	C04A
+etizolam	N05B
+eosin	D08A
+salmeterol	R03A
+budesonide	R03A
+glycine	B05C
+spaglumic acid	S01G
+methoxsalen	D05B
+monoethanolamine oleate	C05B
+pinacidil	C02L
+diuretics	C02L
+paramethadione	N03A
+samarium (153Sm) hydroxyapatite colloid	V10A
+barnidipine	C08C
+toloxatone	N06A
+acetylcholine	S01E
+alfaxalone	N01A
+idelalisib	L01E
+ciclopirox	D01A
+fostemsavir	J05A
+bremelanotide	G02C
+dopamine	C01C
+proscillaridin	C01A
+digitalis leaves	C01A
+tramadol	N02A
+dexketoprofen	N02A
+typhoid cell	J07A
+erlotinib	L01E
+bedaquiline	J04A
+thiocolchicoside	M03B
+valaciclovir	J05A
+technetium (99mTc) human immunoglobulin	V09H
+amino(diphenylhydantoin) valeric acid	N03A
+asunaprevir	J05A
+metolazone	C03E
+potassium-sparing agents	C03E
+nafarelin	H01C
+chlorhexidine	S01A
+benproperine	R05D
+bempedoic acid	C10A
+silver	D08A
+corticotropin	H01A
+solriamfetol	N06B
+fenoxazoline	R01A
+fluclorolone	D07A
+flumetasone	D07C
+antibiotics	D07C
+simfibrate	C10A
+alendronic acid	M05B
+colecalciferol	M05B
+choline theophyllinate	R03D
+diphtheria toxoid	J07A
+aloxiprin	N02B
+bupropion	N06A
+etamiphylline	R03D
+adrenergics	R03D
+oxyquinoline	D08A
+glucose	V04C
+carbromal	N05C
+melanoma vaccine	L03A
+lamivudine	J05A
+brincidofovir	J05A
+fosamprenavir	J05A
+trypsin	D03B
+bentiromide	V04C
+4-aminosalicylic acid	J04A
+codeine	R05D
+tiazofurine	L01X
+trimetaphan	C02B
+pentamidine isethionate	P01C
+diclofenac	S01B
+iodoheparinate	S01X
+alminoprofen	M01A
+pegloticase	M04A
+adrenalone	A01A
+cinchophen	M04A
+rescinnamine	C02L
+diuretics with other drugs	C02L
+flosequinan	C01D
+glisoxepide	A10B
+clioquinol	D09A
+sulbutiamine	A11D
+sodium acetate	B05X
+tolperisone	M02A
+nimesulide	M02A
+aluminium preparations	C05A
+ofatumumab	L04A
+pentifylline	C04A
+etilamfetamine	A08A
+opicapone	N04B
+chloramphenicol	S01A
+tiabendazole	D01A
+panipenem	J01D
+betamipron	J01D
+phenformin	A10B
+indium (111In) capromab pendetide	V09I
+hexobarbital	N05C
+deptropine	R06A
+epinephrine	S01E
+botulinum toxin	M03A
+peginterferon alfa-2a	L03A
+tribenoside	C05C
+morphine	A07D
+sodium picosulfate	A06A
+sodium monofluorophosphate	A12C
+fenoterol	G02C
+ketobemidone	N02A
+antispasmodics	N02A
+tranylcypromine	N06A
+framycetin	S01A
+muzolimine	C03C
+sulfonamides with other antibacterials (excl. trimethoprim)	J01R
+sitagliptin	A10B
+ertugliflozin	A10B
+iloprost	B01A
+plicamycin	L01D
+gepefrine	C01C
+lenograstim	L03A
+antazoline	R01A
+Local hemostatic combinations	B02B
+methylprednisolone	S01C
+antiinfectives	S01C
+bromocriptine	N04B
+tiotixene	N05A
+diastase	A09A
+prednisolone	D07X
+fibrinogen (125I)	V09G
+bambuterol	R03C
+trypsin	M09A
+atorvastatin	C10B
+acetylsalicylic acid	C10B
+cytarabine	L01B
+nortriptyline	N06A
+terlipressin	H01B
+nicomorphine	N02A
+dosulepin	N06A
+desvenlafaxine	N06A
+cediranib	L01E
+fipexide	N06B
+methoxyphenamine	R03C
+iobenguane (131I)	V10X
+organic nitrates in combination with psycholeptics	C01D
+hydralazine	C02D
+lynestrenol	G03F
+estrogen	G03F
+sodium chloride	S01X
+dupilumab	D11A
+indoprofen	M01A
+"meningococcus A,C,Y,W-135 purified polysaccharides antigen"	J07A
+polymyxin B	A07A
+elotuzumab	L01F
+dydrogesterone	G03F
+estrogen	G03F
+lafutidine	A02B
+dipyrocetyl	M01B
+corticosteroids	M01B
+mirabegron	G04B
+pramocaine	D04A
+chlorphenamine	R06A
+rubidium (82Rb) chloride	V09G
+rimiterol	R03A
+lidocaine	C01B
+pyridoxal phosphate	A11H
+hyaluronic acid	R01A
+hydroxyzine	N05B
+phentolamine	V03A
+nitrofural	S02A
+neomycin	R02A
+potassium canrenoate	C03D
+apomorphine	N04B
+alfacalcidol	A11C
+calcium (different salts in combination)	A12A
+thalidomide	L04A
+reslizumab	R03D
+cyclopentamine	R01A
+methyl aminolevulinate	L01X
+phytomenadione	B02B
+levothyroxine sodium	H03A
+tilorone	J05A
+methyldopa (levorotatory)	C02A
+levodopa	N04B
+decarboxylase inhibitor	N04B
+epinephrine	R03A
+other drugs for obstructive airway diseases	R03A
+aldosterone	H02A
+haemophilus influenzae B	J07C
+hepatitis B	J07C
+sulfacetamide	D10A
+formoterol	R03A
+budesonide	R03A
+diphtheria antitoxin	J06A
+choline alfoscerate	N07A
+salsalate	N02B
+bromazepam	N05B
+tribromometacresol	D01A
+crataegus glycosides	C01E
+trioxysalen	D05B
+oxametacin	M01A
+methylprednisolone	D10A
+somatostatin	H01C
+sonidegib	L01X
+insulin (human)	A10A
+manidipine	C08C
+ketoconazole	G01A
+prednisolone	S01B
+hydrogen peroxide	D08A
+beclometasone	D07C
+antibiotics	D07C
+clobetasol	D07A
+eptotermin alfa	M05B
+veratrum	C02K
+hydrochlorothiazide	C03E
+potassium-sparing agents	C03E
+progesterone	G03F
+estrogen	G03F
+remimazolam	N05C
+dibrompropamidine	D08A
+emtricitabine disoproxil	J05A
+cobicistat	J05A
+tolazoline	C04A
+vitamin A concentrates	V04C
+sodium hypochlorite	D08A
+hidrosmin	C05C
+etravirine	J05A
+viminol	N02B
+docetaxel	L01C
+medazepam	N05B
+oxitriptan	N06A
+dichloralphenazone	N05C
+fluorescein	S01J
+codeine	N02A
+other non-opioid analgesics	N02A
+teriflunomide	L04A
+enviomycin	J04A
+cinacalcet	H05B
+trilostane	H02C
+loxapine	N05A
+tolfenamic acid	M01A
+rokitamycin	J01F
+bencyclane	C04A
+fomivirsen	S01A
+methylprednisolone	H02A
+sulfathiazole	D06B
+cyclopenthiazide	C03E
+potassium-sparing agents	C03E
+remdesivir	J05A
+gadodiamide	V08C
+infigratinib	L01E
+valsartan	C09D
+hydrochlorothiazide	C09D
+periciazine	N05A
+oxyphenbutazone	M02A
+orphenadrine (citrate)	M03B
+diclofenac	M01A
+betazole	V04C
+vandetanib	L01E
+nivolumab	L01F
+minaprine	N06A
+dequalinium	R02A
+fremanezumab	N02C
+gold (198Au) colloidal	V10A
+cinchocaine	N01B
+bendroflumethiazide	C03A
+potassium	C03A
+hydrochlorothiazide	C03A
+talinolol	C07A
+cefuroxime	S01A
+formoterol bromide	R03A
+budesonide	R03A
+clevidipine	C08C
+ibuprofen	G02C
+docosanol	D06B
+burosumab	M05B
+aprotinin	B02A
+pertuzumab	L01F
+trimetazidine	C01E
+glycyrrhizic acid	A05B
+methacetin (13C)	V04C
+droxypropine	R05D
+fluorometholone	D07X
+copper sulfate	V03A
+fentanyl	N01A
+procyclidine	N04A
+pramipexole	N04B
+dexamethasone	R01A
+nateglinide	A10B
+suvorexant	N05C
+fludrocortisone	S02C
+antiinfectives	S02C
+organo-heparinoid	C05B
+esketamine	N06A
+penfluridol	N05A
+ulipristal	G03X
+metformin	A10B
+alogliptin	A10B
+ceftriaxone	J01D
+pimavanserin	N05A
+atazanavir	J05A
+pinacidil	C02D
+carisoprodol	M03B
+asparaginase	L01X
+propafenone	C01B
+carbetocin	H01B
+fentanyl	N02A
+ibrutinib	L01E
+hydrogen peroxide	S02A
+fluocinolone acetonide	S01B
+arginine	V03A
+lysine	V03A
+halometasone	D07A
+primidone	N03A
+pirbuterol	R03C
+rosuvastatin	C10B
+lisinopril	C10B
+dasatinib	L01E
+pitavastatin	C10A
+phenelzine	N06A
+amiloride	C03D
+dopexamine	C01C
+polystyrene sulfonate	V03A
+hydrocortisone butyrate	D07A
+dyclonine	R02A
+dexchlorpheniramine	R06A
+neomycin	S03A
+nebivolol	C07B
+thiazides	C07B
+imolamine	C01D
+opipramol	N06A
+chlormidazole	D01A
+xenysalate	D11A
+sodium iodide (131I)	V10X
+pregabalin	N03A
+terazosin	G04C
+pamidronic acid	M05B
+chloroquine	P01B
+proguanil	P01B
+pexidartinib	L01E
+hepatitis B immunoglobulin	J06B
+delamanid	J04A
+tiapride	N05A
+xenon (127Xe) gas	V09E
+chloroform	N01A
+sodium phosphate	A06A
+follitropin beta	G03G
+ciprofloxacin	S03A
+betahistine	N07C
+iodine	D08A
+hyaluronic acid	D03A
+anifrolumab	L04A
+brinzolamide	S01E
+vinflunine	L01C
+caffeine	N06B
+antazoline	R06A
+tenitramine	C01D
+safinamide	N04B
+sevoflurane	N01A
+povidone-iodine	S01A
+aprobarbital	N05C
+protiofate	G01A
+triticum (wheat fibre)	A06A
+mephenytoin	N03A
+sodium selenate	A12C
+indinavir	J05A
+lisuride	G02C
+labetalol	C07B
+thiazides	C07B
+pethidine	N02A
+antispasmodics	N02A
+methoxamine	C01C
+ganaxolone	N03A
+dapsone	D10A
+chlortetracycline	S01A
+cathine	A08A
+magnesium sulfate	D11A
+loperamide	A07D
+bisoxatin	A06A
+imipenem	J01D
+relebactam	J01D
+mumps immunoglobulin	J06B
+oxypertine	N05A
+spaglumic acid	R01A
+rufinamide	N03A
+propamidine	S01A
+pranoprofen	S01B
+ribociclib	L01E
+atorvastatin	C10B
+amlodipine	C10B
+ketoprofen	M01A
+rosuvastatin	C10B
+amlodipine	C10B
+gallamine	M03A
+protriptyline	N06A
+pergolide	N04B
+multienzymes (lipase etc.)	A09A
+flumetasone	D07X
+technetium (99mTc) macrosalb	V09E
+mitomycin	L01D
+ibopamine	C01C
+selumetinib	L01E
+hydrocortisone	D07C
+antibiotics	D07C
+iproniazide	N06A
+other meningococcal polyvalent purified polysaccharides antigen	J07A
+tiaprofenic acid	M01A
+cinchocaine	D04A
+citicoline	N06B
+itramin tosilate	C01D
+oxycodone	N02A
+isoprenaline	R03A
+dimethoxanate	R05D
+crisaborole	D11A
+potassium iodide	S01X
+succinylsulfathiazole	A07A
+prussian blue	V03A
+hydrocortisone	S03C
+antiinfectives	S03C
+orciprenaline	R03C
+iodine (131I) omburtamab	V10X
+ferric proteinsuccinylate	B03A
+chlormadinone	G03F
+estrogen	G03F
+catumaxomab	L01F
+benzathine benzylpenicillin	J01C
+endralazine	C02D
+canrenone	C03D
+animal allergen extracts	V01A
+desogestrel	G03A
+ethinylestradiol	G03A
+boric acid	S02A
+tolmetin	M02A
+inositol	A11H
+bephenium	P02C
+sodium chlorite	D03A
+retapamulin	D06A
+mogamulizumab	L01F
+proxazole	A03A
+chloropyramine	R06A
+acetylsalicylic acid	M01B
+corticosteroids	M01B
+inotersen	N07X
+tivozanib	L01E
+tripelennamine	D04A
+amrinone	C01C
+phenothrin	P03A
+ethionamide	J04A
+amlexanox	A01A
+ammonia (13N)	V09G
+magnesium citrate	A06A
+vigabatrin	N03A
+vinblastine	L01C
+quinethazone	C03B
+elvitegravir	J05A
+teprotumumab	L04A
+povidone-iodine	D11A
+clotrimazole	D01A
+metyrapone	V04C
+zolpidem	N05C
+naloxone	A06A
+hexachlorophene	D08A
+astemizole	R06A
+phentermine	A08A
+sodium iodohippurate (123I)	V09C
+acamprosate	N07B
+poliomyelitis oral attenuated	J07B
+ceftolozane	J01D
+beta-lactamase inhibitor	J01D
+pyrrobutamine	R06A
+benzalkonium	D09A
+eprazinone	R05C
+fimasartan	C09D
+diuretics	C09D
+Lavandulae aetheroleum	N05B
+benfotiamine	A11D
+Other antifungal combinations for topical use in ATC	D01A
+lorajmine	C01B
+cycloserine	J04A
+rituximab	L01F
+trichlormethiazide	C03E
+potassium-sparing agents	C03E
+neomycin	A01A
+irbesartan	C09D
+hydrochlorothiazide	C09D
+rilpivirine	J05A
+eritrityl tetranitrate	C01D
+gonadorelin	V04C
+flufenamic acid	M01A
+xamoterol	C01C
+ganciclovir	S01A
+cinoxacin	J01M
+paraldehyde	N05C
+rose bengal sodium	S01J
+trifluperidol	N05A
+apremilast	L04A
+meglutol	C10A
+methylphenidate	N06B
+voriconazole	J02A
+selinexor	L01X
+nimesulide	M01A
+tryptophan	N06A
+paclitaxel poliglumex	L01C
+metisazone	J05A
+trimebutine	A03A
+pegaspargase	L01X
+technetium (99mTc) pertechnetate	V09F
+paracetamol with psycholeptics	N02B
+bifemelane	N06A
+mebendazole	P02C
+futibatinib	L01E
+trioxysalen	D05A
+ascorbic acid	S01X
+regorafenib	L01E
+magnesium silicate	A02A
+phosphorous (32P) chromicphosphate colloid	V10A
+pembrolizumab	L01F
+bupivacaine	N01B
+bamipine	D04A
+romosozumab	M05B
+decamethoxine	D08A
+indacaterol bromide	R03A
+mometasone	R03A
+dichlorobenzyl alcohol	R02A
+etidocaine	N01B
+hydroflumethiazide	C03A
+potassium	C03A
+sinecatechins	D06B
+pneumococcus polysaccharides antigen	J07A
+perindopril	C09B
+indapamide	C09B
+fenquizone	C03B
+acitretin	D05B
+setmelanotide	A08A
+isoprenaline	R03A
+other drugs for obstructive airway diseases	R03A
+levodopa inhibitor	N04B
+COMT inhibitor	N04B
+ivacaftor	R07A
+elexacaftor	R07A
+vancomycin	S01A
+chlorphenoxamine	R06A
+ebastine	R06A
+benzonatate	R05D
+undecylenic acid	D01A
+magnesium oxide	A12C
+proglumetacin	M01A
+creatinolfosfate	C01E
+dexamethasone	D10A
+dantrolene	M03C
+diphtheria-haemophilus influenzae B-pertussis-poliomyelitis-tetanus-hepatitis B	J07C
+g-strophanthin	C01A
+oxolamine	R05D
+felodipine	C08C
+atenolol	C07C
+other diuretics	C07C
+cevimeline	N07A
+tetanus antitoxin	J06A
+formestane	L02B
+ethosuximide	N03A
+ethenzamide	N02B
+oxyquinoline	G01A
+octenidine	D08A
+oxprenolol	C07C
+other diuretics	C07C
+dostarlimab	L01F
+metamizole sodium	N02B
+haemophilus influenzae B antigen conjugated	J07A
+zidovudine	J05A
+abacavir	J05A
+aciclovir	S01A
+octreotide	H01C
+prothipendyl	N05A
+fluocinonide	D07C
+antibiotics	D07C
+halcinonide	D07A
+bilastine	S01G
+triamterene	C03D
+meprobamate	N05B
+bendroflumethiazide	C03E
+potassium-sparing agents	C03E
+acalabrutinib	L01E
+telavancin	J01X
+mecamylamine	C02B
+octinoxate	D02B
+magnesium (different salts in combination)	A12C
+chorionic gonadotrophin	G03G
+mepyramine	R06A
+fluorocholine(18F)	V09I
+ravulizumab	L04A
+nilotinib	L01E
+isoconazole	D01A
+medifoxamine	N06A
+oxytetracycline	J01A
+gepirone	N06A
+stiripentol	N03A
+calcipotriol	D05A
+epicillin	J01C
+tetracycline	S03A
+flumetasone	D07A
+diiodohydroxypropane	D08A
+becaplermin	D03A
+telaprevir	J05A
+triamcinolone	R03B
+carbenoxolone excl. psycholeptics	A02B
+pilocarpine	S01E
+xenon (133Xe) gas	V09E
+chloramphenicol	S03A
+tenapanor	A06A
+lutropin alfa	G03G
+sorbitol	A06A
+lung surfactant combinations	R07A
+pyrvinium	P02C
+secobarbital	N05C
+bibenzonium bromide	R05D
+drospirenone	G03A
+propentofylline	N06B
+salbutamol	R03A
+beclometasone	R03A
+fasudil	C04A
+triflupromazine	N05A
+aripiprazole	N05A
+ritonavir	J05A
+lidocaine	C05A
+radium (223Ra) dichloride	V10X
+neostigmine	N07A
+rabies immunoglobulin	J06B
+methadone	N07B
+remoxipride	N05A
+polycarbophil calcium	A06A
+lactobacillus	G01A
+dihydralazine	C02D
+sulfamethizole	S01A
+profenamine	N04A
+chloramphenicol	S02A
+ribostamycin	J01G
+flunisolide	R01A
+dexamethasone	D07X
+potassium iodide	V03A
+griseofulvin	D01B
+ibuprofen	C01E
+rifaximin	D06A
+metadoxine	A05B
+gatifloxacin	J01M
+temsirolimus	L01E
+thrombin	B02B
+hyoscyamine	A03C
+psycholeptics	A03C
+theophylline	R03D
+escitalopram	N06A
+pravastatin	C10A
+metoclopramide	A03F
+methocarbamol	M03B
+altretamine	L01X
+flecainide	C01B
+prenoxdiazine	R05D
+Salt solution combinations	B05C
+terbinafine	D01A
+valpromide	N03A
+estradiol	G03C
+doxepin	D04A
+tipranavir	J05A
+isotretinoin	D10A
+nitric oxide	R07A
+salbutamol	R03C
+benziodarone	C01D
+medicinal charcoal	A07B
+methyltestosterone	G03E
+estrogen	G03E
+pertussis antigen	J07A
+phenacetin	N02B
+neomycin	S02A
+amitriptyline	N06C
+psycholeptics	N06C
+aceclofenac	M02A
+flutrimazole	D01A
+epirubicin	L01D
+bemiparin	B01A
+mesulfen	D10A
+labetalol	C07C
+other diuretics	C07C
+haloperidol	N05A
+fexofenadine	R06A
+idursulfase	A16A
+phenolphthalein	A06A
+tegafur	L01B
+fenoterol	R03A
+ipratropium bromide	R03A
+clemastine	D04A
+eprosartan	C09C
+tretinoin	L01X
+etozolin	C03C
+mitotane	L01X
+ethisterone	G03F
+estrogen	G03F
+benperidol	N05A
+trifluridine	L01B
+carbuterol	R03A
+technetium (99mTc) tetrofosmin	V09G
+tyrothricin	R02A
+technetium (99mTc) pentetic acid	V09E
+heparin	S01X
+procaterol	R03A
+etretinate	D05B
+dimethyl sulfoxide	G04B
+clorexolone	C03B
+melphalan flufenamide	L01A
+Hippocastani semen	C05C
+pacritinib	L01E
+erythromycin	S01A
+ciprofloxacin	J01R
+ornidazole	J01R
+tridihexethyl	A03A
+nabumetone	M01A
+mannitol	V04C
+thioacetazone	J04A
+isoniazid	J04A
+maraviroc	J05A
+colecalciferol	A11C
+xylometazoline	S01G
+eslicarbazepine	N03A
+neomycin	A07A
+nicotinyl alcohol	C10A
+ganirelix	H01C
+emetine	P01A
+carbon dioxide	V03A
+bismuth preparations	C05A
+aurothioglucose	M01C
+cyproterone	G03H
+mazaticol	N04A
+benzoxonium chloride	D08A
+rifapentine	J04A
+cobicistat	V03A
+neltenexine	R05C
+aminoglutethimide	L02B
+rifamycin	S02A
+calcium laevulate	A12A
+glutathione	V03A
+betamethasone	S01B
+mydriatics	S01B
+laninamivir	J05A
+ipecacuanha	R05C
+besifloxacin	S01A
+methyprylon	N05C
+hachimycin	D01A
+glycerol	A06A
+glyceryl trinitrate	C01D
+tobramycin	S01A
+rofecoxib	M01A
+palonosetron	A04A
+sorbitol	V04C
+amlodipine	C08C
+megestrol	G03F
+estrogen	G03F
+technetium (99mTc) apcitide	V09G
+meningococcus B membrane vesicle vaccine	J07A
+amphotericin B	A07A
+rosuvastatin	C10B
+ezetimibe	C10B
+cyclandelate	C04A
+varenicline	N07B
+tolazoline	M02A
+technetium (99mTc) depreotide	V09I
+efalizumab	L04A
+clenbuterol	R03C
+ranibizumab	S01L
+irinotecan	L01C
+dapagliflozin	A10B
+estazolam	N05C
+desonide	D07B
+antiseptics	D07B
+ganciclovir	J05A
+hydrochlorothiazide	C03A
+debrisoquine	C02C
+sermorelin	H01A
+prasugrel	B01A
+calcium iopodate	V08A
+isosorbide dinitrate	C01D
+calcium compounds	A07X
+cloridarol	C01D
+metamfetamine	N06B
+phenazone	S02D
+lidocaine	N01B
+methylnortestosterone	G03F
+estrogen	G03F
+sodium iodide (123I)	V09F
+nimetazepam	N05C
+netilmicin	S01A
+triamcinolone	S01B
+technetium (99mTc) human albumin	V09G
+nefopam	N02B
+nepafenac	S01B
+ipriflavone	M05B
+betacarotene	D02B
+trimethobenzamide	R06A
+rifampicin	J04A
+isoniazid	J04A
+glycobiarsol	P01A
+pimethixene	R06A
+quinbolone	A14A
+ondansetron	A04A
+haemophilus influenzae B	J07C
+poliomyelitis	J07C
+melevodopa	N04B
+diphenylpyraline	R06A
+vernakalant	C01B
+pneumococcus polysaccharides antigen conjugated	J07A
+oxazepam	N05B
+phensuximide	N03A
+benzethonium chloride	D08A
+snake venom antiserum	J06A
+valsartan	C09D
+aliskiren	C09D
+inulin	V04C
+other polyfructosans	V04C
+clioquinol	D08A
+mafenide	D06B
+sulfur	D10A
+colestyramine	C10A
+crizotinib	L01E
+motavizumab	J06B
+lithium	N05A
+zafirlukast	R03D
+quazepam	N05C
+dexamethasone	S02B
+ubrogepant	N02C
+glucosaminoglycan polysulfate	M01A
+zidovudine	J05A
+nevirapine	J05A
+relugolix	H01C
+norethisterone	H01C
+rutoside	C05C
+simvastatin	C10B
+ezetimibe	C10B
+polynoxylin	D01A
+expectorant combinations excluding combinations with cough suppressants	R05C
+doravirine	J05A
+bisoprolol	C07F
+acetylsalicylic acid	C07F
+rifampicin	J04A
+furosemide	C03E
+potassium-sparing agents	C03E
+ephedrine	R01A
+various other nasal preparations in ATC	R01A
+lanreotide	H01C
+idoxuridine	J05A
+aminophenazone	N02B
+caspofungin	J02A
+rosoxacin	J01M
+inosine	S01X
+dactinomycin	L01D
+omega-3-triglycerides incl. other esters	C10A
+acids	C10A
+fidaxomicin	A07A
+promethazine	D04A
+levosimendan	C01C
+flumequine	J01M
+oxymorphone	N02A
+ofatumumab	L01F
+hydroquinidine	C01B
+sodium aurothiomalate	M01C
+pemoline	N06B
+posaconazole	J02A
+epitizide	C03E
+potassium-sparing agents	C03E
+indometacin	M01A
+pravastatin	C10B
+ezetimibe	C10B
+belantamab mafodotin	L01F
+rociverine	A03A
+melperone	N05A
+pentazocine	N02A
+minocycline	D10A
+ursodeoxycholic acid	A05A
+nitroprusside	C02D
+methiodal	V08A
+penthienate	A03A
+ambutonium	A03C
+psycholeptics	A03C
+mianserin	N06A
+dexamethasone	S03B
+enflurane	N01A
+bamipine	R06A
+lidoflazine	C08E
+mometasone	D07A
+choriogonadotropin alfa	G03G
+troxerutin	C05C
+penbutolol	C07C
+other diuretics	C07C
+lacosamide	N03A
+pentobarbital	N05C
+capmatinib	L01E
+amenamevir	J05A
+didanosine	J05A
+ethyl hydroxybenzoate	D01A
+sulfafurazole	S01A
+citiolone	A05B
+talbutal	N05C
+butamirate	R05D
+rubella immunoglobulin	J06B
+levacetylmethadol	N07B
+amisulpride	N05A
+lutetium (177Lu) oxodotreotide	V10X
+gelatin agents	B05A
+bietaserpine	C02A
+hachimycin	J02A
+methylpentynol	N05C
+nebivolol	C07F
+amlodipine	C07F
+isepamicin	J01G
+terbinafine	D01B
+indacaterol	R03A
+mometasone	R03A
+paliperidone	N05A
+nelfinavir	J05A
+motretinide	D10A
+bezafibrate	C10A
+cinnarizine	N07C
+amikacin	D06A
+prulifloxacin	J01M
+everolimus	L01E
+magnesium sulfate	A06A
+edaravone	N07X
+dropropizine	R05D
+etomidate	N01A
+triamcinolone	D07C
+antibiotics	D07C
+aminobutyric acid	N03A
+tanezumab	N02B
+amorolfine	D01A
+bucetin	N02B
+melitracen	N06C
+psycholeptics	N06C
+ivacaftor	R07A
+desipramine	N06A
+terbutaline	R03C
+betamethasone	D07X
+fluvastatin	C10A
+thioacetazone	J04A
+sofosbuvir	J05A
+butizide	C03E
+potassium-sparing agents	C03E
+zanubrutinib	L01E
+trastuzumab emtansine	L01F
+evinacumab	C10A
+bentazepam	N05B
+prasterone	G03X
+calcitonin (salmon synthetic)	H05B
+carbocromen	C01D
+alfentanil	N01A
+gabapentin	N03A
+tianeptine	N06A
+losartan	C09D
+diuretics	C09D
+tramadol	N02A
+demeclocycline	J01A
+ibuprofen	M01A
+bosutinib	L01E
+quizartinib	L01E
+etoposide	L01C
+beclometasone	R03B
+pivmecillinam	J01C
+clonidine	C02L
+diuretics with other drugs	C02L
+tetracycline	J01A
+choline fenofibrate	C10A
+human menopausal gonadotrophin	G03G
+bendazac	M02A
+neostigmine	S01E
+polymyxin B	S03A
+cefmetazole	J01D
+perazine	N05A
+sodium benzoate	A16A
+sodium phenylacetate	A16A
+cadexomer iodine	D03A
+aurotioprol	M01C
+bornaprine	N04A
+tenoxicam	M01A
+prazosin	C02L
+diuretics	C02L
+tacrine	N06D
+pristinamycin	J01F
+nystatin	A07A
+maprotiline	N06A
+thiopental	N01A
+conjugated estrogens	G03C
+fenfluramine	A08A
+clobenzorex	A08A
+clonidine	C02A
+capsaicin	N01B
+erdosteine	R05C
+naphazoline	R01A
+cetrorelix	H01C
+pramiracetam	N06B
+meningococcus A polysaccharides antigen	J07A
+ciprofloxacin	S01A
+ethylmorphine	S01X
+eflornithine	D11A
+pecilocin	D01A
+pyrithyldione	N05C
+tixocortol	R01A
+lovastatin	C10B
+nicotinic acid	C10B
+loxoprofen	M02A
+miconazole	S02A
+inotuzumab ozogamicin	L01F
+tritoqualine	R06A
+triamcinolone	D07B
+antiseptics	D07B
+denileukin diftitox	L01X
+iopentol	V08A
+rosuvastatin	C10B
+omega-3 fatty acids	C10B
+rosuvastatin	C10B
+perindopril	C10B
+cytisinicline	N07B
+dimethyl sulfoxide	M02A
+betamethasone	D07B
+antiseptics	D07B
+procainamide	C01B
+valdecoxib	M01A
+altheae radix	R05C
+aciclovir	J05A
+molindone	N05A
+triazolam	N05C
+cocaine	N01B
+technetium (99mTc) arcitumomab	V09I
+reproterol	R03C
+phenoxybenzamine	C04A
+betaine	A16A
+liquid paraffin	A06A
+nicorandil	C01D
+racecadotril	A07X
+oxiconazole	D01A
+castor oil	A06A
+meropenem	J01D
+vaborbactam	J01D
+eberconazole	D01A
+brivaracetam	N03A
+moracizine	C01B
+desloratadine	R06A
+technetium (99mTc) technegas	V09E
+salbutamol	R03A
+ipratropium bromide	R03A
+dexbrompheniramine	R06A
+tetanus toxoid	J07A
+aclarubicin	L01D
+lorlatinib	L01E
+phenazone	N02B
+eplerenone	C03D
+tulobuterol	R03A
+clonazepam	N03A
+oxolinic acid	J01M
+ephedrine	C01C
+rifampicin	J04A
+isoniazid	J04A
+bamethan	C04A
+tromantadine	D06B
+cobalt (57Co) cyanocobalamine	V09X
+norfloxacin	J01R
+tinidazole	J01R
+polymyxin B	S01A
+reposal	N05C
+13C-urea	V04C
+niflumic acid	M01A
+dydrogesterone	G03D
+phenazocine	N02A
+dofetilide	C01B
+bergapten	D05B
+fosfocreatine	C01E
+dibromotyrosine	H03B
+aminobenzoic acid	D02B
+lercanidipine	C08C
+betamethasone	S01B
+pravastatin	C10B
+fenofibrate	C10B
+copanlisib	L01E
+tropicamide	S01F
+propanol	D08A
+fumaric acid	D05A
+methylestrenolone	G03D
+bisoprolol	C07F
+amlodipine	C07F
+reboxetine	N06A
+technetium (99mTc) exametazime labelled cells	V09H
+cidofovir	J05A
+morniflumate	M01A
+nitrofural	S01A
+norfenefrine	C01C
+sequifenadine	R06A
+mephenesin	M03B
+clofibrate	C10A
+vemurafenib	L01E
+fluocinolone acetonide	C05A
+afatinib	L01E
+dysprosium (165Dy) colloid	V10A
+trimethadione	N03A
+proxyphylline	R03D
+choline salicylate	N02B
+rizatriptan	N02C
+cefixime	J01D
+fentiazac	M01A
+daclatasvir	J05A
+methylprednisolone	H02B
+doxercalciferol	H05B
+cyclofenil	G03G
+tramadol	N02A
+other non-opioid analgesics	N02A
+alimemazine	R06A
+tymazoline	R01A
+afamelanotide	D02B
+desoximetasone	D07A
+diprophylline	R03D
+adrenergics	R03D
+collagenase	D03B
+sodium aminosalicylate	J04A
+tilidine	N02A
+Prunus africanae cortex	G04C
+inclisiran	C10A
+cortisone	H02A
+daptomycin	J01X
+abacavir	J05A
+minoxidil	C02D
+tibolone	G03C
+chloramphenicol	D06A
+methoxsalen	D05A
+lomefloxacin	J01M
+sodium oxybate	N07X
+riboflavin	S01X
+dextromoramide	N02A
+mesoridazine	N05A
+monoxerutin	C05C
+vitamin D	A11C
+analog combinations	A11C
+dodeclonium bromide	D08A
+masitinib	L01E
+scopolamine	N05C
+carbachol	N07A
+ketoprofen	M02A
+indometacin	S01C
+antiinfectives	S01C
+phenacemide	N03A
+dienogest	G03F
+estrogen	G03F
+anagrelide	L01X
+fluocortolone	D07X
+pinazepam	N05B
+altizide	C03E
+potassium-sparing agents	C03E
+bupivacaine	N01B
+meloxicam	N01B
+lapatinib	L01E
+procaine	N01B
+siponimod	L04A

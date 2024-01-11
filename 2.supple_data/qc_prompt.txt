@@ -1,0 +1,7 @@
+1. Assess the relationship between original_output and target_output to determine if the 'prompt' needs adjustments(You do not need to tell me whether adjustments is needed just return prompt or "NO_CHANGE_REQUIRED".).
+(2. If the original output is the same, similar, or better than the target output, no adjustments are needed. In this case, respond only with "NO_CHANGE_REQUIRED".)
+(3. If adjustments are necessary(Please ensure the response contains only the prompt, with no introductory, explanatory, or additional text.):
+3.1.Include the original prompt (original_prompt).
+3.2. Cannot write any examples (For example, the name of a specific drug, a disease, or a cell line) in prompt, but put the summarized rules that need to be optimized into prompt!
+3.3.Put the newly added requirements after original prompt.
+3.4.Please ensure that the supplemental prompt is as concise as possible.)
