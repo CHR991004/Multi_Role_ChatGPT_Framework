@@ -36,7 +36,7 @@ get_chatGPT_answer <- function(content, api_key, max_retries = 100) {
   repeat {
     tryCatch({
       response <- httr::POST(
-        url = "https://api.ikungpt.com/v1/chat/completions",
+        url = "https://api.openai.com/v1/chat/completions",
         httr::add_headers(Authorization = paste("Bearer", api_key)),
         httr::content_type_json(),
         encode = "json",
@@ -129,7 +129,7 @@ optimized_prompts <- list()
 prompts_outputs_df <- data.frame(ID = character(), original_prompt = character(), qa_prompt = character(), qa_output = character(), stringsAsFactors = FALSE)
 
 # Load original_prompt from file
-original_prompt <- paste0(readLines("requirement_revision.txt"), collapse = "\t")
+original_prompt <- paste0(readLines("2. supple_data/requirement.txt"), collapse = "\t")
 out_of_length <- c()
 
 # Processing loop for each unique GEO ID

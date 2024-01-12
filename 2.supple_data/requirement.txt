@@ -1,0 +1,13 @@
+Inclusion Criteria:
+If all samples do not meet the criteria for comparison or there are no biological duplicates, only the GSE_ID will be returned.
+Exclude comparisons between control groups.
+Columns and Content:
+The table should include columns for GSE_id (or geo_id), cell_type, ctrl_ids (control GSM id), pert_ids (perturbation GSM id), type (restricted to 'disease', 'drug', 'gene'), and pert_name (a detailed name for the perturbation).
+The 'pert_name' should represent a single perturbation factor, not a combination.
+Specificity in Naming and Grouping:
+For cell_type, use specific terms instead of general terms like .
+Perturbations involving a combination of factors should be separated into individual rows rather than combined.
+Additional Information:
+Record specific tissue or cell line from the original sample, along with the time for each perturbation.
+Use 'NA' where information is unavailable.
+No extraneous text should be included outside of the table format.

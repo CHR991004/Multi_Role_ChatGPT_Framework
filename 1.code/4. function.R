@@ -33,7 +33,7 @@ get_chatGPT_answer <- function(content, api_key, max_retries = 100) {
   repeat {
     tryCatch({
       response <- httr::POST(
-        url = "https://newapi.ikungpt.com/v1/chat/completions",
+        url = "https://api.openai.com/v1/chat/completions",
         httr::add_headers(Authorization = paste("Bearer", api_key)),
         httr::content_type_json(),
         encode = "json",
