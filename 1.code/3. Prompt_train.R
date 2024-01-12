@@ -93,7 +93,7 @@ process_classification_results <- function(group_results) {
 # load("train_list.Rdata")
 max_attempts <- 3
 expected_column_count <- 6 # 根据您的数据结构定义期望的列数
-api_key <- "sk-yj0SfCYBRHGETByP9e1a3b136bA94684AdF24f7cBe519578"
+api_key <- "sk-yj0SfCYBRHGETByP9e1a3b1************************"
 train_data <- openxlsx::read.xlsx("GEO_train.xlsx")
 
 # 计算每个类型的样本比例

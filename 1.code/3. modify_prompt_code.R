@@ -105,7 +105,7 @@ process_classification_results <- function(group_results, expected_column_count)
 
 max_attempts <- 3
 expected_column_count <- 6  # Define expected column count based on your data structure
-api_key <- "sk-yj0SfCYBRHGETByP9e1a3b136bA94684AdF24f7cBe519578"
+api_key <- "sk-yj0SfCYBRHGETByP9e1a3b136bA9*********************"
 train_data <- openxlsx::read.xlsx("GEO_train.xlsx")
 
 # Calculate proportions of each sample type
