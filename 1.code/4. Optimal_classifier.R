@@ -7,7 +7,6 @@ original_prompt <- "Additional Requirements:1.If the patient is on medication, t
 If the type is a drug, the pert_name should specify the drug name, dosage, and duration of action (if applicable,Format is drug(dose, time))."
 
 load("2. supple_data/gse_list.Rdata")
-load("2. supple_data/1128-1367.Rdata")
 
 colnames(results_df_ingselist)[1] <- "geo_id"
 
@@ -30,23 +29,19 @@ sampled_df <- grouped_df %>%
 
 gse_list <- gse_list[sampled_df$geo_id]
 gc()
-train_data <- sampled_df[1211:1841,]
-
 
 # Initialize variables
 final_results <- list()
 optimized_prompts <- list()
 out_of_length <- c()
 max_attempts <- 6
-api_key <- "sk-KkzHmlYm97TjgLXw63DdDcEc01C14562A383370eF07397Ce" # Replace with actual API key
+api_key <- "sk-KkzHmlYm97TjgLXw63DdDcEc01C1xxxxxxxxx" # Replace with actual API key
 # Main execution
 result_data <- process_gse_data(gse_list, train_data, original_prompt)
 final_results_df <- create_results_dataframe(result_data$final_results)
-openxlsx::write.xlsx(x = final_results_df,file = "last_achieve.xlsx")
+openxlsx::write.xlsx(x = final_results_df,file = "results_before_qc.xlsx")
 
-
-load("2. supple_data/paper_use_list.Rdata")
-drug_results <- openxlsx::read.xlsx(xlsxFile = "3. Intermediate files/qc_failed_drug_2.xlsx",sheet = 1)
+drug_results <- openxlsx::read.xlsx(xlsxFile = "results_before_qc.xlsx",sheet = 1)
 drug_results$ctrl_count <- sapply(strsplit(drug_results$ctrl_ids, "\\|"), length)
 drug_results$pert_count <- sapply(strsplit(drug_results$pert_ids, "\\|"), length)
 drug_results <- drug_results[drug_results$ctrl_count >= 3 & drug_results$pert_count >= 3, 1:6]

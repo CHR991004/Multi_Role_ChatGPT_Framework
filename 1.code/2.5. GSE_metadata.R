@@ -5,7 +5,7 @@ library(openxlsx)
 library(GEOquery)
 
 # Read the Excel file containing GEO IDs
-results_df <- openxlsx::read.xlsx("alldrug_GSE.xlsx")
+results_df <- openxlsx::read.xlsx("3. Intermediate files/alldrug_GSE.xlsx")
 
 # Extract GSE IDs from the dataframe
 gse_ids <- results_df$accession
