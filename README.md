@@ -1,13 +1,13 @@
+This repository documents the complete process and usage instructions for building the Multi Role ChatGPT Framework (MRCF) from the original data acquisition, which can be utilized by professional developers for the following purposes:
 
-本仓库记录了从原始数据获取到Multi Role ChatGPT Framework（MRCF）搭建的全流程代码和用法介绍，专业的开发人员可用于以下用途：
+- Automated mining of the GEO database
+- In-depth transcriptomics data mining for a specific domain
+- Building a domain-specific MRCF to enhance the accuracy and consistency of ChatGPT responses
 
-- GEO数据库自动挖掘
-- 针对单一领域的深入的转录组学数据挖掘
-- 搭建特定领域的MRCF，用于增加ChatGPT回复的准确性和一致性
+> **note:** For simplicity, `x.5 function.R` is a supplementary function or operation to `x. *.R`. For GEO database analysis, you can start directly with `4. Optimal_classifier.R`.
 
-**note：** 为了代码的简洁性，`x.5 function.R`是`x. *.R`的补充函数或操作。对于GEO数据库分析来说，可以直接开始运行`4. Optimal_classifier.R`。
+The code directory is as follows:
 
-代码目录为:
 ```
 ├─1.code
 │      1. GEO_auto_search.R
@@ -48,11 +48,12 @@
 
 ## 1. GEO_auto_search.R
 
-此代码用于批量检索关键词对应的数据集，获取GSE号等信息。本研究以所有的ATC drug name为例。
+This code is used for batch retrieval of datasets corresponding to keywords, obtaining information such as GSE numbers. This study uses all ATC drug names as an example.
 
 ### input
 
-`ATC_result`是一个带有`drug_name`列的data.frame，示例如下：
+`ATC_result` is a data.frame with a `drug_name` column, example as follows:
+
 ```
 ATC_result <- read.table("ATC_result.txt",sep = "\t",header = T)
 
@@ -66,17 +67,18 @@ ATC_result <- read.table("ATC_result.txt",sep = "\t",header = T)
 6     metformin  A10B
 ```
 
-在实际运用中，drug_name列可替换为其他检索词
+In actual application, the `drug_name` column can be replaced with other search terms.
 
 ### process
 
-- 数据处理
-如果筛选标准和下面一致，则无需修改其他代码：
-1. 物种：人/小鼠/大鼠
-2. 测序类型：Expression profiling by array or Expression profiling by high throughput sequencing
+- Data processing
+If the selection criteria are consistent with the following, no other code modification is needed:
+1. Species: human/mouse/rat
+2. Sequencing type: Expression profiling by array or Expression profiling by high throughput sequencing
 
 ### output
-得到的结果中，主要记录了数据集的`accession`，测序平台`gpl`，测序类型`gdstype`，以及检索词`drug`。当然还有该数据集的`title`和`summary`（因为长度过长而省略）
+The results mainly record the dataset's `accession`, sequencing platform `gpl`, sequencing type `gdstype`, and the search term `drug`. Of course, the dataset's `title` and `summary` are also recorded (omitted here due to length).
+
 ```
 > head(all_df[,c(1,2,5,6)])
   accession      gpl
@@ -97,11 +99,12 @@ ATC_result <- read.table("ATC_result.txt",sep = "\t",header = T)
 
 ## 2. GEOdownload_url.R
 
-根据`GSE accession`批量获取`*_series_matrix.txt.gz`的下载url，使用这些url能够借助IDM等工具实现多线程下载，能够比`GEOquery`包更快。`*_series_matrix.txt.gz`记录了芯片数据的表达谱矩阵以及所有数据集的`sample metadata`
+Batch retrieves download URLs for `*_series_matrix.txt.gz` based on `GSE accession`, enabling multi-threaded downloading through tools like IDM, which is faster than the `GEOquery` package. `*_series_matrix.txt.gz` records the expression matrix of chip data and all dataset `sample metadata`.
 
 ### input
 
-示例数据如下：
+Example data as follows:
+
 ```
 all_GSE <- read.table(input_file, sep = "\t", header = FALSE)
 
@@ -117,11 +120,12 @@ all_GSE <- read.table(input_file, sep = "\t", header = FALSE)
 
 ### process
 
-基于`GEOquery`包批量获取`*_series_matrix.txt.gz`的下载url
+Batch retrieves download URLs for `*_series_matrix.txt.gz` based on the `GEOquery` package.
 
 ### output
 
-示例输出如下：
+Example output as follows:
+
 ```
 > head(a_char)
                                                                                                  V1
@@ -135,19 +139,19 @@ all_GSE <- read.table(input_file, sep = "\t", header = FALSE)
 
 ## 2.5 GSE_metadata.R
 
-根据`*_series_matrix.txt.gz`批量获取每个数据集的`sample metadata`。
+Batch retrieves `sample metadata` for each dataset based on `*_series_matrix.txt.gz`.
 
 ### input
 
-示例`results_df`输入与`1. GEO_auto_search.R`一致，仅需提供`accession`列即可
+Example `results_df` input consistent with `1. GEO_auto_search.R`, only the `accession` column is needed.
 
 ### procession
 
-基于`GEOquery`的`getGEO` function来获取`sample metadata`
+Retrieves `sample metadata` using the `getGEO` function from the `GEOquery` package.
 
 ### output
 
-最终得到`gse_list`
+The final output is `gse_list`.
 
 ```
 > summary(gse_list[1:5])
@@ -158,14 +162,14 @@ GSE139547 1      ExpressionSet S4
 GSE76003  1      ExpressionSet S4  
 GSE60567  1      ExpressionSet S4 
 ```
-详细信息可在R语言中查看
+Detailed information can be viewed in R language.
 ![](https://pic-wx.oss-cn-beijing.aliyuncs.com/202402051134446.png)
 
 ## 3. modify_prompt_code.R
 
 ### input
 
-- 1. 金标准文件
+- 1. Gold standard file
 
 ```
 > train_data <- openxlsx::read.xlsx("GEO_train.xlsx")
@@ -180,20 +184,20 @@ GSE60567  1      ExpressionSet S4
  $ pert_name: chr  "Duchenne muscular dystrophy" "Nicotine addiction" "Rhinovirus infection" "dilated cardiomyopathy" ...
 ```
 
-- 参数设置
+- Parameter settings
 
-`api_key`: 例如`sk-yj0SfCYBRHGETByP9e1a3b136bA9*********************`
-`max_attempts`：最大ChatGPT尝试次数（避免过度消费）
-`expected_column_count`：期待的列数（以金标准为参考）
-`original_prompt`：用户根据自己经验编写的`prompt`
+`api_key`: e.g., `sk-yj0SfCYBRHGETByP9e1a3b136bA9*********************`
+`max_attempts`: Maximum number of ChatGPT attempts (to avoid excessive consumption)
+`expected_column_count`: Expected number of columns (referencing the gold standard)
+`original_prompt`: Prompt written by the user based on their experience
 
 ### process
 
-使用代码设定的流程，将`Original Annotator`生成的结果与金标准比较，用以修改`original prompt`。
+Using the process set in the code, compare the results generated by `Original Annotator` with the gold standard to modify the `original prompt`.
 
 ### output
 
-当输出结果符合条件后则停止迭代，示例输出如下：
+Stop iteration once the output results meet the conditions. Example output as follows:
 
 ```
 > str(optimized_prompts[1:5])
@@ -205,23 +209,24 @@ List of 5
  $ GSE33329 : chr "Additional Requirements:1.If the patient is on medication, the type is the drug\n2.single ctrl_ids and pert_ids"| __truncated__
 ```
 
+
 ## 4. Optimal_classifier.R
 
-应用`optimal prompt`进行用户特定领域的分析。对于GEO数据库分析来说，可以直接进行这一步。
+Applies `optimal prompt` for analysis in user-specific domains. For GEO database analysis, you can directly proceed with this step.
 
 ### input
 
-1. `gse_list`(与`2.5 GSE_metadata.R`一致)
-2. `GSE accession`（例如`GSE89899`）
-3. 其余参数设置与`3. modify_prompt_code.R`一致
+1. `gse_list` (consistent with `2.5 GSE_metadata.R`)
+2. `GSE accession` (e.g., `GSE89899`)
+3. Other parameter settings consistent with `3. modify_prompt_code.R`
 
 ### process
 
-无需修改其他的代码，即可应用`Optimal Annotator`进行实际分析
+No need to modify other codes to apply `Optimal Annotator` for actual analysis.
 
 ### output
 
-- 未质控的分类结果
+- Unquality-controlled classification results
 
 ```
 > head(final_results_df)
@@ -241,7 +246,7 @@ List of 5
 6            GSM7511808|GSM7511813 drug Afatinib(40mg, 14 days)
 ```
 
-- 质控后的分类结果
+- Quality-controlled classification results
 
 ```
 > head(final_results_df)
@@ -284,25 +289,25 @@ List of 5
 
 # 2.supple_data
 
-储存了`1. code`中所需的补充文件
+Stores supplementary files required for `1. code`
 
 # 3.auto_array
 
-microarray自动化的差异表达分析流程
+Automated differential expression analysis workflow for microarray
 
 ## input
 
-- 1. final_results_df(由`Optimal_classifier.R`生成)
-- 2. `*_series_matrix.txt.gz`(由`2. GEOdownload_url.R`生成)
+- 1. final_results_df (generated by `Optimal_classifier.R`)
+- 2. `*_series_matrix.txt.gz` (generated by `2. GEOdownload_url.R`)
 
 ## process
 
-1. 使用`auto_ann.R`将`probe_id`注释为`gene_symbol`
-2. 使用`limma_Pvalue_batch.R`，基于limma包对microarray数据集进行批量的差异表达分析
+1. Use `auto_ann.R` to annotate `probe_id` to `gene_symbol`
+2. Use `limma_Pvalue_batch.R` to perform batch differential expression analysis on microarray datasets based on the limma package
 
 ## output
 
-示例输出如下：
+Example output as follows:
 
 ```
 genes	logFC	AveExpr	t	P.Value	adj.P.Val	B
@@ -314,16 +319,16 @@ C10orf96	-2.539028139	8.523583069	-16.01644675	2.12E-08	0.000129264	9.673360857
 # 4.auto_array
 
 ## input
-- 1. final_results_df(由`Optimal_classifier.R`生成)
-- 2. `*_count.xls`(由`RNAseq_download.R`(GREIN database)或`GEO.R`(GEO database)生成)
+- 1. final_results_df (generated by `Optimal_classifier.R`)
+- 2. `*_count.xls` (generated by `RNAseq_download.R` (GREIN database) or `GEO.R` (GEO database))
 
 ## process
 
-使用`DESeq2auto.R`对RNA-seq数据集按照特定分组进行批量的差异表达分析
+Use `DESeq2auto.R` for batch differential expression analysis of RNA-seq datasets based on specific grouping
 
 ## output
 
-差异表达分析结果示例如下：
+Differential expression analysis results example as follows:
 
 ```
 genes	logFC	baseMean	lfcSE	stat	P.Value	adj.P.Val
@@ -331,7 +336,7 @@ A2M-AS1	0.190352991	7.852281849	0.778205726	0.244604974	0.806762312	0.899349499
 A2ML1	-0.403786097	6.578866775	0.791732104	-0.510003441	0.610049051	0.771574343
 ```
 
-# 运行环境
+# Running environment
 
 ```
 > sessionInfo()
@@ -367,4 +372,4 @@ loaded via a namespace (and not attached):
 
 ----
 
-> 如果在使用中有其他问题，可联系`202101421521@b.sxmu.edu.cn`
+> If you have any other questions during use, you can contact `202101421521@b.sxmu.edu.cn`
